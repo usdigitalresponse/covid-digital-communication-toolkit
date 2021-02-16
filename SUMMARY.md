@@ -35,6 +35,8 @@
 * [Elderly and the Aging Population](key-population-considerations/elderly-and-the-aging-population.md)
 * [People with Disabilities](key-population-considerations/people-with-disabilities.md)
 * [Black and Brown Communities](key-population-considerations/black-and-brown-communities.md)
+* [Rural Communities](key-population-considerations/rural-communities.md)
+* [Hard-to-Reach Communities](key-population-considerations/hard-to-reach-communities.md)
 
 ---
 
