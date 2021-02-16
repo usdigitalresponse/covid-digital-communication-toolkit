@@ -8,3 +8,30 @@
 * [Background](introduction/background.md)
 * [Toolkit Walkthrough](introduction/toolkit-walkthrough.md)
 
+## Health Equity Framework
+
+* [Relationships and Networks](health-equity-framework/relationships-and-networks.md)
+* [Individual Factors](health-equity-framework/individual-factors.md)
+* [Systems of Power](health-equity-framework/systems-of-power.md)
+* [Physiological Pathways](health-equity-framework/physiological-pathways.md)
+
+## What We Know
+
+* [About Residents Personas](what-we-know/about-residents-personas.md)
+* [Reading and Cognitive Challenges](what-we-know/reading-and-cognitive-challenges.md)
+* [Navigation and Search](what-we-know/navigation-and-search.md)
+
+## Tools and Templates
+
+* [Checklists](tools-and-templates/checklists.md)
+* [Website Template](tools-and-templates/website-template.md)
+* [Mobile Template](tools-and-templates/mobile-template.md)
+* [Printed Materials Templates](tools-and-templates/printed-materials-templates.md)
+* [List of Community Outreach Partners](tools-and-templates/list-of-community-outreach-partners.md)
+* [Data Collection, Visualization, and Reporting](tools-and-templates/data-collection-visualization-and-reporting.md)
+
+---
+
+* [Contact Us](contact-us.md)
+* [Acknowledgments](acknowledgments.md)
+
