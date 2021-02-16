@@ -10,7 +10,7 @@ This is a living document. We will continuously update it as we learn more from 
 
 1. \*\*\*\*[**Background**](introduction/background.md): Top communication needs that USDR has identified from information architecture, plain language, and transcreation.
 2. \*\*\*\*[**Health equity framework:** ](health-equity-framework/relationships-and-networks.md)The lens this toolkit takes in health communication literacy to reach all communities including those marginalized in access to COVID-19 vaccines.
-3. \*\*\*\*[**What we know:** ](what-we-know/about-residents.md)General facts and trends from residents as personas in various phases in the vaccination rollout in the US.
+3. \*\*\*\*[**What we know:** ](what-we-know/resident-personas.md)General facts and trends from residents as personas in various phases in the vaccination rollout in the US.
 4. \*\*\*\*[**Tools and templates:** ](tools-and-templates/checklists.md)Actionable steps and checklists to evaluate and make design and content changes to COVID-19 vaccine websites and mobile apps.
 5. \*\*\*\*[**Key population considerations**](key-population-considerations/elderly-and-the-aging-population.md)**:** Evidence-based tools and approaches to increase health equity for black and brown communities, elderly, people with disabilities, rural, and hard-to-reach communities. 
 

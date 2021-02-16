@@ -18,7 +18,7 @@
 
 ## What We Know
 
-* [About Residents](what-we-know/about-residents.md)
+* [Resident Personas](what-we-know/resident-personas.md)
 * [Reading and Cognitive Challenges](what-we-know/reading-and-cognitive-challenges.md)
 * [Navigation and Search](what-we-know/navigation-and-search.md)
 
