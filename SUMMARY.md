@@ -17,7 +17,7 @@
 
 ## What We Know
 
-* [About Residents Personas](what-we-know/about-residents-personas.md)
+* [About Residents](what-we-know/about-residents.md)
 * [Reading and Cognitive Challenges](what-we-know/reading-and-cognitive-challenges.md)
 * [Navigation and Search](what-we-know/navigation-and-search.md)
 
@@ -29,6 +29,12 @@
 * [Printed Materials Templates](tools-and-templates/printed-materials-templates.md)
 * [List of Community Outreach Partners](tools-and-templates/list-of-community-outreach-partners.md)
 * [Data Collection, Visualization, and Reporting](tools-and-templates/data-collection-visualization-and-reporting.md)
+
+## Key Population Considerations
+
+* [Elderly and the Aging Population](key-population-considerations/elderly-and-the-aging-population.md)
+* [People with Disabilities](key-population-considerations/people-with-disabilities.md)
+* [Black and Brown Communities](key-population-considerations/black-and-brown-communities.md)
 
 ---
 
