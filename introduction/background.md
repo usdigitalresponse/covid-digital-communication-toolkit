@@ -2,7 +2,7 @@
 
 ### **From Communication Teams**
 
-Collaborating with USDR’s local and state government on designing vaccine webpages, we have learned that our partners are inundated with a high volume of calls and emails to their call centers. The most frequently asked questions from their residents include, but not limited to: Where can I get vaccinated? and When am I eligible to get the COVID-19 vaccine? 
+Collaborating with USDR’s local and state government on designing vaccine webpages, we have learned that our partners are inundated with a high volume of calls and emails to their call centers. The most frequently asked questions from their residents include, but not limited to: _Where can I get vaccinated?_ and _When am I eligible to get the COVID-19 vaccine?_ 
 
 > “We need help with an overwhelming amount of phone calls and public health emails.”
 >
@@ -15,7 +15,7 @@ Although there are a number of strategies from personas to use cases to make you
 
 ### From Residents
 
-In a short qualitative research study with a sample of six residents with varying backgrounds, demographics, and vaccination eligibility phases \(1-3\), we learned that on average residents do not know where to get vaccinated and when they will be eligible for the vaccine \(Nguyen, 2020\). 
+In a short qualitative research study with a sample of six residents with varying backgrounds, demographics, and vaccination eligibility phases, we learned that on average residents do not know where to get vaccinated and when they will be eligible for the vaccine \(Nguyen, 2020\). 
 
 > When can I get the covid vaccine?
 >
