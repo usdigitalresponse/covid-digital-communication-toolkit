@@ -27,7 +27,7 @@
 * [Checklists](tools-and-templates/checklists.md)
 * [Website Template](tools-and-templates/website-template.md)
 * [Mobile Template](tools-and-templates/mobile-template.md)
-* [Printed Materials Templates](tools-and-templates/printed-materials-templates.md)
+* [Printed Materials and Video Templates](tools-and-templates/printed-materials-and-video-templates.md)
 * [List of Community Outreach Partners](tools-and-templates/list-of-community-outreach-partners.md)
 * [Data Collection, Visualization, and Reporting](tools-and-templates/data-collection-visualization-and-reporting.md)
 
@@ -42,7 +42,6 @@
 ## Other Resources
 
 * [Edutainment](other-resources/edutainment.md)
-* [Videos](other-resources/videos.md)
 
 ---
 
