@@ -1,17 +1,17 @@
 # Navigation and Search
 
-We have conducted remote observations and contextual inquiry as part of a qualitative study with a small sample of residents from various phases of the COVID-19 vaccine rollout. In addition, we analyzed over 75 state and local COVID-19 vaccine websites for best practices on vaccination eligibility. This is what we learned from residents:   
+We have conducted remote observations and contextual inquiry as part of a qualitative study with a small sample of residents from various phases of the COVID-19 vaccine rollout. In addition, we analyzed over 75 state and local COVID-19 vaccine websites for best practices on vaccination eligibility. This is what we learned from residents about residents' mental models:   
 
 ### **How do people currently think about getting a vaccine?**
 
 * **What do you know about getting vaccines?** Users varied on their knowledge level about the vaccine from not much, 2 doses, rolling out now, to some level of phase prioritization. People, in general, are not sure _when_ and _where_ to get vaccinated for Covid-19 especially for the “wait-and-see” groups.
-* **When will you be able to get a vaccine?** We also learned that timing is random based on a resident's social network with the highest frequency mentioned on March, June, and the Fall.
-* **How important is the vaccine in your life?** 
-* **How do you want to get the vaccine**
-* **Who should make decisions about vaccine distribution?** 
+* **When will you be able to get a vaccine?** We also learned that timing is random based on a resident's social network with the highest frequency mentioned in March, June, and the Fall.
+* **How important is the vaccine in your life?** Vaccine importance is role-dependent. Teachers and essential workers feel like this is very important. 
+* **How do you want to get the vaccine?** There are two sides to the coin. 
+  1. **Realistically**: Residents currently have to go somewhere such as a hospital or community center, sign up, and wait for a response, This is slightly inconvenient for them.
+  2. **Ideally**: At work, so residents don’t have to travel out of their way. They want to go somewhere and someone familiar to them such as their Primary Care Physician.
+* **Who should make decisions about vaccine distribution?** There’s a range of responses: A mix of people, people with clout, scientists. A December Morning Consult poll found that a majority of US adults turn to their families for vaccine guidance.
 * **What is the role of the federal government in vaccine distribution?** 
-* Users are asking about the Where to find vaccines? before asking about When am I eligible for the COVID vaccine?
-* Users are sear
 
 ![](https://lh5.googleusercontent.com/gDW1L0HoeIIfE98aNrFDTUgtXyGCrrTcwVTOB2fv0lfn3iE1XF6Hhnb857-b5sCllPwV3wGNHVCljv54n7MMBM3GzG48Hup_qYNk9ogOgKdld40iOBUZwGVA2h8koXUPv1y9-o1pC7E)
 
