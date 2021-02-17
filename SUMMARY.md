@@ -19,6 +19,7 @@
 ## What We Know
 
 * [Resident Personas](what-we-know/resident-personas.md)
+* [Communication Trends](what-we-know/communication-trends.md)
 * [Mental Model](what-we-know/mental-model.md)
 * [Reading and Cognitive Challenges](what-we-know/reading-and-cognitive-challenges.md)
 * [Search and Navigation](what-we-know/search-and-navigation.md)
@@ -26,7 +27,7 @@
 
 ## Tools and Templates
 
-* [Checklists](tools-and-templates/checklists.md)
+* [Web & Mobile Audit Checklist](tools-and-templates/checklists.md)
 * [Website Template](tools-and-templates/website-template.md)
 * [Mobile Template](tools-and-templates/mobile-template.md)
 * [Printed Materials and Video Templates](tools-and-templates/printed-materials-and-video-templates.md)
