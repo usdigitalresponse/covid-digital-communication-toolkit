@@ -39,6 +39,11 @@
 * [Rural Communities](key-population-considerations/rural-communities.md)
 * [Hard-to-Reach Communities](key-population-considerations/hard-to-reach-communities.md)
 
+## Other Resources
+
+* [Edutainment](other-resources/edutainment.md)
+* [Videos](other-resources/videos.md)
+
 ---
 
 * [Contact Us](contact-us.md)

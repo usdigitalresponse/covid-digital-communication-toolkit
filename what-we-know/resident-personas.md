@@ -4,5 +4,12 @@ For any target audience, effective message development should align with the com
 
 Therefore, we created two personas in Phase 1 \(a, b, c\) based on multiple conversations and projects with our government partners that reflect the principles in the Health Equity Framework with strategic messaging:
 
-### Phase 1 \(a, b, c\)
+### Phase 1
+
+**Meet Mark,** an elderly citizen who is retired and a caregiver to his wife. His main frustration is bypassing the cognitive overload of vaccine information he is reading online and watching on the news. The best messaging outreach for Mark is positioning getting the COVID-19 vaccine as part of his own personal leadership role as a **protector of the community.** 
+
+![](https://lh4.googleusercontent.com/iAc-1tB7-1kuH7OtdsNRRiiObHulaLZowes1FbOIDZILIrPKv-QoHyEFLhuLUhAU2Db2TTNiG8Ilfk-Os3TLO0dwfWxPgT67kpWoNGIthF0i8XVixuLwJ1ZfVZnCBriJLNo6HWgD)
+
+**Meet Isabella,** a single mom to three children \(5, 11 years old\) and a housekeeper at a large health system. Although she is able to speak English on the basic literacy level, Isabella isn’t confident about getting the COVID vaccine due to its side effects. She relies on her 11-year old daughter to translate scientific terms. The best messaging outreach for Isabella is one that frames the motivation for getting vaccinated from **decreasing personal risk to help others**, thus preventing message reactance such as “Protect your family, if not yourself”.  
+
 
