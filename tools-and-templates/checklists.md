@@ -1,6 +1,6 @@
 # Audit Checklist
 
-We listed an audit checklist that you can use to evaluate your digital tool such as a state, county, or city  . This checklist is derived from Health Literacy Online and ETR's 
+We listed an audit checklist that you can use to evaluate your digital tools such as a website, mobile app, social media content, and digital print media. This checklist centralizes recommendations derived from [Health Literacy Online](https://health.gov/healthliteracyonline/) and ETR's [Health Equity Framework](https://journals.sagepub.com/doi/full/10.1177/1524839920950730).
 
 ### 1. Learn about your users and their goals
 
