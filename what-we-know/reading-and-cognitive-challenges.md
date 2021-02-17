@@ -10,7 +10,7 @@ We have identified common reading and cognitive challenges for the general publi
 
 ![Gaze path of a user with limited literacy skills reading only the text that looks easy to read](../.gitbook/assets/eyetracking-example.jpg)
 
-### Sources
+#### Sources
 
 Ardila, A., Bertolucci, P. H., Braga, L. W., Castro-Caldas, A., Judd, T., Kosmidis, M. H., . . . Rosselli, M. \(2010, December 01\). Illiteracy: The Neuropsychology of Cognition Without Reading. Retrieved from [https://academic.oup.com/acn/article/25/8/689/4384](https://academic.oup.com/acn/article/25/8/689/4384) 
 
