@@ -27,7 +27,7 @@
 
 ## Tools and Templates
 
-* [Audit Checklist](tools-and-templates/checklists.md)
+* [Checklist](tools-and-templates/checklists.md)
 * [Website Template](tools-and-templates/website-template.md)
 * [Mobile Template](tools-and-templates/mobile-template.md)
 * [Printed Materials and Video Templates](tools-and-templates/printed-materials-and-video-templates.md)

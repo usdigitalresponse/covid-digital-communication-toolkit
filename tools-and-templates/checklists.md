@@ -1,4 +1,4 @@
-# Audit Checklist
+# Checklist
 
 We listed an audit checklist that you can use to evaluate your digital tools such as a website, mobile app, social media content, and digital print media. This checklist centralizes recommendations derived from [Health Literacy Online](https://health.gov/healthliteracyonline/) and ETR's [Health Equity Framework](https://journals.sagepub.com/doi/full/10.1177/1524839920950730).
 
@@ -13,7 +13,11 @@ We listed an audit checklist that you can use to evaluate your digital tools suc
 * [ ] What **networks and relationships** do they value the most to learn about COVID-19 information? e.x. a trust messenger/ [health translator](https://www.usdigitalresponse.org/39-voices-_-covid-sprint-_-full-deck/) from their communities, family, friends, schools, religious institutes \(church, temple, mosque\)
 * [ ] What are **systems of power** that prevent or accelerate their access to accurate and transparent COVID-19 information? e.x. undocumented immigrant, lack of insurance, rural community access to healthcare
 
-### 2. Evaluate if you wrote actionable content in your digital tool 
+### 2. Write actionable content
+
+* [ ] Did you put the **most important information first** at the top of the page, above [the fold](https://www.crazyegg.com/blog/glossary/what-is-the-fold/)?
+* [ ] What is the **health behavior** that you want your users to do? e.x. check vaccination eligibility, or learn more about vaccine side effects.
+* [ ] Did you set **realistic and positive** expectations? e.x. include the benefits of taking action to set a prevention plan against COVID-19 for your family
 
 ### 3. Display content clearly on the page
 
@@ -23,7 +27,11 @@ We listed an audit checklist that you can use to evaluate your digital tools suc
 
 ### 6. Evaluate, measure, and revise your digital tool
 
-Sources
+### Sources
 
+Amee. \(2017, November 24\). What is the Fold? The Crazy Egg Glossary. Retrieved from [https://www.crazyegg.com/blog/glossary/what-is-the-fold/](https://www.crazyegg.com/blog/glossary/what-is-the-fold/)
 
+ETR. \(2020, August 19\). ETR's Health Equity Framework. Retrieved February 14, 2021, from [https://www.etr.org/about-us/health-equity-framework/](https://www.etr.org/about-us/health-equity-framework/) 
+
+ODPHP. \(2016, June 8\). What We Know About Users with Limited Literacy Skills. Retrieved from [https://health.gov/healthliteracyonline/what-we-know/section-1-1/](https://health.gov/healthliteracyonline/what-we-know/section-1-1/) 
 
