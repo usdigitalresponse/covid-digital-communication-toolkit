@@ -19,9 +19,31 @@ We have conducted remote observations and contextual inquiry as part of a qualit
 
 ![](https://lh5.googleusercontent.com/gDW1L0HoeIIfE98aNrFDTUgtXyGCrrTcwVTOB2fv0lfn3iE1XF6Hhnb857-b5sCllPwV3wGNHVCljv54n7MMBM3GzG48Hup_qYNk9ogOgKdld40iOBUZwGVA2h8koXUPv1y9-o1pC7E)
 
-### **How do people currently navigate information around how they will get a vaccine and learn about their eligibility?** 
+### **How do people currently navigate information around how they will get a vaccine and learn about their eligibility?**
 
-###  ****
+* **Top Query Searches:** 
+
+  * "where can I get vaccinated in my county?"
+  * “when can I get the covid vaccine?”
+  * “when am i scheduled to get the covid vaccine massachusetts”
+  * “When do Americans get vaccines?”
+  * “When will 1b group get vaccine”
+
+* **Location of searches** ranked from the highest influence and highest usage to lowest influence and usage:
+
+  * State gov website\*
+  * CDC\*
+  * Health center\*
+  * Public school website
+  * Google’s common question accordion tool
+  * BBC News
+  * AARP, NY Times
+
+* **Residents' next steps** after searching for vaccine information online and offline:
+  * Try again search in early spring
+  * Talk to main health provider with personal experience
+  * Make a decision depending on the general public flow
+  * Talk to their employer
 
 #### **Sources**
 
