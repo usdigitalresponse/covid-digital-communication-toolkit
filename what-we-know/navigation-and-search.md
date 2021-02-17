@@ -4,7 +4,7 @@ We have conducted remote observations and contextual inquiry as part of a qualit
 
 #### **Vaccine-specific**
 
-* Users are asking about the Where to find vaccines? before asking about When am I eligible for the COVID vaccine?
+* Users are asking about the _Where to find vaccines?_ before asking about _When am I eligible for the COVID vaccine?_
 * Users are sear
 
 #### **Community-specific** 
