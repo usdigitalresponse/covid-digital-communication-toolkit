@@ -11,7 +11,11 @@ We have conducted remote observations and contextual inquiry as part of a qualit
   1. **Realistically**: Residents currently have to go somewhere such as a hospital or community center, sign up, and wait for a response, This is slightly inconvenient for them.
   2. **Ideally**: At work, so residents don’t have to travel out of their way. They want to go somewhere and someone familiar to them such as their Primary Care Physician.
 * **Who should make decisions about vaccine distribution?** There’s a range of responses: A mix of people, people with clout, scientists. A December Morning Consult poll found that a majority of US adults turn to their families for vaccine guidance.
-* **What is the role of the federal government in vaccine distribution?** 
+* **What is the role of the federal government in vaccine distribution?** From residents:
+  * “Ensure we have enough vaccines for everybody and work on distribution.”
+  * “Make sure it’s available regardless of money and geographic area.”
+  * “Strong federal guidelines, procedures and protocols.”
+  * “Coordinating with state, local governments on prioritization and delivery.”
 
 ![](https://lh5.googleusercontent.com/gDW1L0HoeIIfE98aNrFDTUgtXyGCrrTcwVTOB2fv0lfn3iE1XF6Hhnb857-b5sCllPwV3wGNHVCljv54n7MMBM3GzG48Hup_qYNk9ogOgKdld40iOBUZwGVA2h8koXUPv1y9-o1pC7E)
 
