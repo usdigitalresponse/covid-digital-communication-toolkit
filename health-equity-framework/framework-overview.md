@@ -1,4 +1,4 @@
-# Framework Overview
+# Overview
 
 Health equity is defined as having the personal agency and fair access to resources and opportunities needed to achieve the best possible physical, emotional, and social well-being \(ETR, 2020\). ETR, an organization that advances health equity through education, training, and research evaluation, developed the Health Equity Framework \(HEF\). HEF centers on four spheres of influence to impact population health outcomes: 1\) relationships and networks, 2\) systems of power, 3\) physiological pathways, and 4\) individual factors \(Peterson et al., 2020\).
 
