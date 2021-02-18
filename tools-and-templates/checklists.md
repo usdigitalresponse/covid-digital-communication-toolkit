@@ -31,6 +31,13 @@ We listed an audit checklist that you can use to evaluate your digital tools suc
 
 ### 3. Display content clearly on the page
 
+* [ ] Did you limit **paragraph size?** Use bullets and short lists
+* [ ] Where did you use **meaningful** **headings?**
+* [ ] Did you use a **familiar font** with at least 12-point type for print media and 16-point type for a website and mobile view?
+* [ ] Did you use **white space** and reduced clutter?
+* [ ] Where did you keep content in the **center of the screen** and above the fold?
+* [ ] Did you label **links** clearly?
+
 ### 4. Organize content and simplify navigation
 
 ### 5. Engage users with interactive content
