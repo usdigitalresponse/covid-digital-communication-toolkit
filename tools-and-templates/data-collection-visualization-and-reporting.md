@@ -6,6 +6,16 @@
 
 The National Academies’ report recommends **place-based measures** of social vulnerability, such as the Centers for Disease Control & Prevention Social Vulnerability Index \(SVI\) or the COVID-19 Community Vulnerability Index \(CCVI\), that include racial, ethnic and language composition of a census tract. 
 
+### Examples of Equitable COVID-19 Reporting
+
+{% embed url="https://public.tableau.com/views/StatesReportingofCOVID-19HealthEquityData/EquityReportingCOVIDCaseData?:embed=y&:toolbar=n&:embed\_code\_version=3&:loadOrderID=0&:display\_count=y&:origin=viz\_share\_link" %}
+
+{% embed url="https://public.tableau.com/views/StatesReportingofCOVID-19HealthEquityData/EquityReportingCOVIDDeathData?:embed=y&:toolbar=n&:embed\_code\_version=3&:loadOrderID=1&:display\_count=y&:origin=viz\_share\_link" %}
+
+
+
+### Health Equity Data Reporting
+
 {% embed url="https://healthyplacesindex.org/about" caption="CA’s Healthy Places Index \(HPI\)" %}
 
 {% embed url="https://www.atsdr.cdc.gov/placeandhealth/svi/index.html" caption="The Centers of Disease Control and Prevention\'s Social Vulnerability Index  " %}
