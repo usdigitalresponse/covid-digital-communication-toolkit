@@ -1,6 +1,8 @@
 # Printed Materials Templates
 
-because of the novelty of the virus, the information surrounding the virus changes and evolves constantly, which can be overwhelming to the lay public. This picture is further complicated by the widespread misinformation and disinformation about the virus, especially on social media. Therefore, the need for timely, accurate, and transparent communication about COVID-19 to patients, communities, and the public is paramount. This panel approaches the communication challenges around COVID-19 from various angles. Specifically, presenters will share insight on several key public health issues made even more salient in the age of COVID-19, such as vaccination acceptance, intergroup relations, patient-provider communication, and public health digital outreach. The panel will conclude with the opportunity for the speakers to address each other’s work as well as the opportunity for session attendees to ask questions of the speakers.
+Information surrounding COVID-19 changes and evolves constantly, which can be overwhelming to the lay public. This picture is further complicated by the **widespread misinformation** and disinformation about the virus, especially on social media. 
+
+Therefore, we listed resources from **trusted organizations** for print media such as flyers and downloadable social media infodemics to support your agency in public health digital outreach.
 
 ### Health Literacy and Communication
 
