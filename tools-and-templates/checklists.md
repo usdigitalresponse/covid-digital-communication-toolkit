@@ -61,7 +61,7 @@ We listed an audit checklist that you can use to evaluate your digital tools suc
 
 * [x] If budget allows, did you **recruit users** with limited literacy and limited health literacy skills from various backgrounds and conduct **usability testing**? This option may not be practical for health content developers, so instead using a **proxy** for health literacy can be useful. Usability will help test comprehension in multiple ways such as thinking out loud as users complete tasks and describe what they've read in their own words
 * [x] Did you integrate **analytics** to track users' flow in your digital tools and gage their behaviors?
-* [x] Did you recruit **diverse moderators** and/or researchs for testing? Whenever possible, use moderators who share similar cultural experiences and values working with people with limited literacy skills and those of diverse demographics.
+* [x] Did you recruit **diverse moderators** and/or researchers for testing? Whenever possible, use moderators who share similar cultural experiences and values working with people with limited literacy skills and those of diverse demographics.
 * [x] Did you create **plain-language testing** documents? e.x. screeners, consent forms, and moderator guides. As a general rule, limit the number of tasks and questions when conducting usability testing with users with limited literacy skills
 
 ### Sources
