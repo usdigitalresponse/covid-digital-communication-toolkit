@@ -12,6 +12,7 @@ We listed an audit checklist that you can use to evaluate your digital tools suc
 * [ ] What are your users' **physiological pathways**? e.x. cognitive and comprehension disabilities and conditions such as Dementia, Alzheimers, and Parkinson's Disease
 * [ ] What **networks and relationships** do they value the most to learn about COVID-19 information? e.x. a trust messenger/ [health translator](https://www.usdigitalresponse.org/39-voices-_-covid-sprint-_-full-deck/) from their communities, family, friends, schools, religious institutes \(church, temple, mosque\)
 * [ ] What are **systems of power** that prevent or accelerate their access to accurate and transparent COVID-19 information? e.x. undocumented immigrant, lack of insurance, rural community access to healthcare
+* [ ] Where did you use **bold colors** with contrast in alignment with [508 compliance](https://www.hhs.gov/web/section-508/accessibility-checklists/index.html)? e.x. avoid dark backgrounds
 
 ### 2. Write actionable content
 
@@ -52,6 +53,8 @@ We listed an audit checklist that you can use to evaluate your digital tools suc
 Amee. \(2017, November 24\). What is the Fold? The Crazy Egg Glossary. Retrieved from [https://www.crazyegg.com/blog/glossary/what-is-the-fold/](https://www.crazyegg.com/blog/glossary/what-is-the-fold/)
 
 ETR. \(2020, August 19\). ETR's Health Equity Framework. Retrieved February 14, 2021, from [https://www.etr.org/about-us/health-equity-framework/](https://www.etr.org/about-us/health-equity-framework/) 
+
+Secretary, H. O., & Office of the Chief Information Officer \(OCIO\). \(2021, January 21\). Accessibility Compliance Checklists. Retrieved from [https://www.hhs.gov/web/section-508/accessibility-checklists/index.html](https://www.hhs.gov/web/section-508/accessibility-checklists/index.html)
 
 ODPHP. \(2016, June 8\). What We Know About Users with Limited Literacy Skills. Retrieved from [https://health.gov/healthliteracyonline/what-we-know/section-1-1/](https://health.gov/healthliteracyonline/what-we-know/section-1-1/) 
 
