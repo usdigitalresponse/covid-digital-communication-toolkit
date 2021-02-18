@@ -17,7 +17,7 @@ tbd
 
 | Core Strategies | Inputs | Activities | Outputs | Short-term Outcomes | Medium-term Outcomes | Impact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ds |  |  |  | ↑knowledge and attitude to seek vaccine to self and family | ↑behavior to actualize seeking vaccine \(both doses\) | **↑** Covid-19 vaccinations rates, particularly among communities of color and targeted geographies with historically low rates |
+| ds |  |  |  | ↑knowledge and attitude to seek vaccine to self and family | ↑behavior to actualize seeking vaccine | **↑** Covid-19 vaccinations rates, particularly among communities of color and targeted geographies with historically low rates |
 |  |  |  |  |  |  | ↓ rates of Covid-19 infections |
 |  |  |  |  |  |  | ↓ Covid-19 morbidity and mortality |
 |  |  |  |  |  |  | ↓ disparities in Covid-19 morbidity and mortality |
