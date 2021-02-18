@@ -18,6 +18,16 @@ We listed an audit checklist that you can use to evaluate your digital tools suc
 * [ ] Did you put the **most important information first** at the top of the page, above [the fold](https://www.crazyegg.com/blog/glossary/what-is-the-fold/)?
 * [ ] What is the **health behavior** that you want your users to do? e.x. check vaccination eligibility, or learn more about vaccine side effects.
 * [ ] Did you set **realistic and positive** expectations? e.x. include the benefits of taking action to set a prevention plan against COVID-19 for your family
+* [ ] Did you provide **specific action steps** for your users to do immediately? Instead of telling users _what_ to do, tell them _how_ to do it.
+* [ ] Did you check your **content for accuracy?** Include the date when the content was last reviewed and the reviewer's name and contact information to give your content more credibility with your users.
+
+![CDC COVID-19 Frequently Asked Questions \(FAQ\) page](../.gitbook/assets/screen-shot-2021-02-17-at-4.53.21-pm%20%281%29.png)
+
+* [ ] Did you write in **plain language**? Use familiar language and an active voice.
+
+{% hint style="info" %}
+**Example:** When you get the COVID-19 vaccine, either Pfizer or Moderna brands, the nurse will give you an immunization card with your dose 1 date and location of injection.
+{% endhint %}
 
 ### 3. Display content clearly on the page
 
@@ -26,6 +36,8 @@ We listed an audit checklist that you can use to evaluate your digital tools suc
 ### 5. Engage users with interactive content
 
 ### 6. Evaluate, measure, and revise your digital tool
+
+### 
 
 ### Sources
 
