@@ -8,6 +8,8 @@ The toolkit will reflect best practices of integrating communities and networks 
 
 **Sources**
 
+A. P., V. C., & D. Y. \(2020, August 19\). The Health Equity Framework: A Science- and Justice-Based Model for Public Health Researchers and Practitioners - Amy Peterson, Vignetta Charles, David Yeung, Karin Coyle, 2020. Retrieved February 14, 2021, from [https://journals.sagepub.com/doi/full/10.1177/1524839920950730](https://journals.sagepub.com/doi/full/10.1177/1524839920950730)
+
 Holt-Lunstad, J., Smith, T. B., & Layton, J. B. \(2010, July 27\). Social Relationships and Mortality Risk: A Meta-analytic Review. Retrieved February 16, 2021, from [https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316)
 
 Patton, G. C., Olsson, C. A., Skirbekk, V., Saffery, R., Wlodek, M. E., Azzopardi, P. S., . . . Sawyer, S. M. \(2018, February 22\). Adolescence and the next generation. Retrieved February 16, 2021, from [https://www.nature.com/articles/nature25759](https://www.nature.com/articles/nature25759)

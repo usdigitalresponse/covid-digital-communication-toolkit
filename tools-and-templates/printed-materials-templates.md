@@ -1,5 +1,9 @@
 # Printed Materials Templates
 
+{% hint style="info" %}
+
+{% endhint %}
+
 Information surrounding COVID-19 changes and evolves constantly, which can be overwhelming to the lay public. This picture is further complicated by the **widespread misinformation** and disinformation about the virus, especially on social media. 
 
 Therefore, we listed resources from **trusted organizations** for print media such as flyers and downloadable social media infodemics to support your agency in public health digital outreach.
