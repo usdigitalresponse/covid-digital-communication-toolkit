@@ -1,4 +1,0 @@
-# Communication Trends
-
-Coming soon
-
