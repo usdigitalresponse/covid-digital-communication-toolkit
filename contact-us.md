@@ -1,8 +1,14 @@
 # Contact Us
 
-As you know, the situation around vaccinations is evolving quickly. As we learn more, we will add new and relevant information to this toolkit. You can[ subscribe for future updates](https://forms.gle/Wa6RoWHWSdEQevhk7).
+### Subscribe for future updates
 
-In the meantime, if you would like more information or pro-bono support from USDR, please [reach out](https://www.usdigitalresponse.org/request-help/). We will get back to you within hours.
+News around COVID-19 vaccines is evolving quickly. As we learn more, we will add new and relevant information to this toolkit. You can[ subscribe for future updates](https://forms.gle/Wa6RoWHWSdEQevhk7).
 
-And if you found this toolkit helpful, please share with other vaccination communication specialists and educators who might benefit from this information.
+### Ask for help
+
+In the meantime, if you would like more information or pro-bono support from our teams of technologists at USDR, please [reach out](https://www.usdigitalresponse.org/request-help/). We will get back to you within hours.
+
+### Share this toolkit
+
+If you found this toolkit helpful, please [share it ](https://www.linkedin.com/company/usdr)with other vaccination communication content developers and educators who might benefit from this information.
 
