@@ -39,6 +39,13 @@ We listed an audit checklist that you can use to evaluate your digital tools suc
 
 ### 4. Organize content and simplify navigation
 
+* [ ] Did you create a simple and **engaging** **homepage**? Users with limited literacy skills have difficulty processing multiple concepts at the same time, so include as few elements as possible on the homepage.
+* [ ] Where did you use **labels** that reflect words your users know? To help different users find what they need, repeat topics under multiple categories. For example, based on card sorting, content on [vaccination eligibility](https://www.figma.com/proto/dyiSesOAZM9NIDqogoqbdr/USDR-Vaccine-Website-Template?node-id=737%3A379&scaling=min-zoom) in our vaccine website template appears under three categories: Homepage, Find Vaccines, Phases.
+* [ ] Did you enable **easy access** to home and menu pages?
+* [ ] Where did you ensure that the **"Back" buttons** work? 
+* [ ] Where did you use **linear information paths**? This is especially important in completing vaccine eligibility forms and registering for a vaccination appointment
+* [ ] Did you include **simple search** and browse options? Include language translation options for multilingual users.
+
 ### 5. Engage users with interactive content
 
 ### 6. Evaluate, measure, and revise your digital tool
