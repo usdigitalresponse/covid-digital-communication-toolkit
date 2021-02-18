@@ -20,17 +20,12 @@ We listed an audit checklist that you can use to evaluate your digital tools suc
 * [ ] What is the **health behavior** that you want your users to do? e.x. check vaccination eligibility, or learn more about vaccine side effects
 * [ ] Did you set **realistic and positive** expectations? e.x. include the benefits of taking action to set a prevention plan against COVID-19 for your family
 * [ ] Did you provide **specific action steps** for your users to do immediately? Instead of telling users _what_ to do, tell them _how_ to do it
+* [ ] Did you write in **plain language**? Use familiar language and an active voice. e.x. _"When you get the COVID-19 vaccine, the nurse will give you an immunization card with your vaccine dose 1 brand name, date, and location of vaccine administration."_
 * [ ] Did you check your **content for accuracy?** Include the date when the content was last reviewed and the reviewer's name and contact information to give your content more credibility with your users
 
 ![CDC COVID-19 Frequently Asked Questions \(FAQ\) page](../.gitbook/assets/screen-shot-2021-02-17-at-4.53.21-pm%20%281%29.png)
 
-* [ ] Did you write in **plain language**? Use familiar language and an active voice.
-
-{% hint style="info" %}
-**Example:** When you get the COVID-19 vaccine, the nurse will give you an immunization card with your vaccine dose 1 brand name, date, and location of vaccine administration.
-{% endhint %}
-
-### 3. Display content clearly on the page
+### **3. Display content clearly on the page**
 
 * [ ] Did you limit **paragraph size?** Use bullets and short lists.
 * [ ] Where did you use **meaningful** **headings?**
@@ -39,6 +34,8 @@ We listed an audit checklist that you can use to evaluate your digital tools suc
 * [ ] Where did you keep content in the **center of the screen** and above the fold?
 * [ ] Did you label **links** clearly?
 * [ ] Did you use **images** that facilitate learning and reduce negative emotions? e.x avoid vaccine imagery that [could deter people with needle phobias](https://www.washingtonpost.com/local/needles-fear-coronavirus-vaccine/2020/12/22/1c554500-408a-11eb-8db8-395dedaaa036_story.html)
+* [ ] Where did you use **bold colors** with contrast? Avoid dark backgrounds
+* [ ] Did you make your site and documents **accessible** to [people with disabilities](../key-population-considerations/people-with-disabilities.md)? Learn more about [508 compliance](https://www.hhs.gov/web/section-508/accessibility-checklists/index.html)
 
 ### 4. Organize content and simplify navigation
 
