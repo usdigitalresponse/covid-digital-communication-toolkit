@@ -50,11 +50,11 @@ We listed an audit checklist that you can use to evaluate your digital tools suc
 
 * [ ] Did you include **printer-friendly tools** and resources? e.x. provide a link to printable pages. We learned users with limited literacy skills prefer to print pages from a website rather than read text on a computer screen. Also, they may want to share health information with family members or friends who don't have access to a computer or post it on their fridge
 * [x] Did you simplify **screen-based controls** and enlarge buttons? e.x design buttons that are easy to find and click. Some users with limited literacy skills do not understand the term "Submit". So use an alternative like "Go" or "Get Started"
-* [ ] Did you include **interactive content** that users can tailor, but not too much? Users want personalized health information, but they don't want to enter a lot of personal data
+* [x] Did you include **interactive content** that users can tailor, but not too much? Users want personalized health information, but they don't want to enter a lot of personal data
 
 ![San Francisco Vaccine Notification Webpage](../.gitbook/assets/screen-shot-2021-02-17-at-6.52.43-pm%20%281%29.png)
 
-* [ ] Did you incorporate audio and **visual features to build trust** in the community? Evidence-based research shows that audio and video can enhance comprehension and retention of online information. Using a **role-modeling strategy** such as video testimonials or flyers is key when engaging the hispanic community, where adult immunization rates are already much lower than among whites
+* [ ] Did you incorporate audio and **visual features to build trust** in the community? Evidence-based research shows that audio and video can enhance comprehension and retention of online information. Using a **role-modeling strategy** such as video testimonials or flyers is key when engaging the Hispanic community, where adult immunization rates are already much lower than among whites
 * [x] Did you include **social media** for increased engagement and social proof?
 
 ### 6. Evaluate, measure, and revise your digital tool
