@@ -8,8 +8,7 @@ We thank many people who contributed to this toolkit, including:
 * Jan Overgoor, PhD
 * Jennifer Strickland
 * Megan O'Rorke
-* Johanna Yi
-* Madeleine Lee
 * Jay Stakelon
+* Madeleine Lee
 * Our government partners
 
