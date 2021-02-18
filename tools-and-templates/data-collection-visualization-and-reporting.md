@@ -1,9 +1,12 @@
 # Data Collection, Visualization, and Reporting
 
+The National Academies’ report recommends **place-based measures** of social vulnerability, such as the Centers for Disease Control & Prevention Social Vulnerability Index \(SVI\) or the COVID-19 Community Vulnerability Index \(CCVI\), that include racial, ethnic and language composition of a census tract. 
 
+Place-based health metrics like these capture **key contributors to risk** of getting COVID-19 or having a worse outcome including poverty, reliance on public transportation, and crowded housing.
 
-* **\#2: Unify guidance across government**
-* **Consolidates county data into a single interactive view**
-* **Clear “last updated” timestamp reinforces this is a timely source of truth**
-* **When precise details are lacking, state still provides contact information or link**
+{% embed url="https://healthyplacesindex.org/about" caption="CA’s Healthy Places Index \(HPI\)" %}
+
+{% embed url="https://www.atsdr.cdc.gov/placeandhealth/svi/index.html" caption="The Centers of Disease Control and Prevention\'s Social Vulnerability Index  " %}
+
+{% embed url="https://precisionforcovid.org/ccvi" caption="Surgo’s COVID-19 Community Vulnerability Index" %}
 
