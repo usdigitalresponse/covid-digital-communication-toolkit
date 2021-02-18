@@ -10,6 +10,8 @@
 
 {% embed url="https://ncapps.acl.gov/covid-19-resources.html" caption="Example of tailored messaging from Health Care Person-Centered view " %}
 
+{% embed url="https://nnlm.gov/mar/guides/making-your-website-senior-friendly?fbclid=IwAR3AxiJsQCzLDx6EmzTiuGqQP0qxhnObQPAQscbKWfJ8ArehBniuEzzHz2k" caption="NNLM\'s Making Your Website Senior-Friendly" %}
+
 ### **Sources**
 
 NCAPPS. \(2021, January\). Health Care Person-Centered Profile. Retrieved from [https://ncapps.acl.gov/covid-19-resources.html](https://ncapps.acl.gov/covid-19-resources.html)

@@ -1,2 +1,0 @@
-# Transcreation and Translation
-

@@ -4,7 +4,9 @@ Information surrounding COVID-19 changes and evolves constantly, which can be ov
 
 Therefore, we listed resources from **trusted organizations** for print media such as flyers and downloadable social media infodemics to support your agency in public health digital outreach.
 
-### Health Literacy and Communication
+### Health Literacy
+
+{% embed url="https://www.ama-assn.org/delivering-care/health-equity/health-literacy-resources-inequities-non-english-speakers" %}
 
 {% embed url="https://health.gov/healthliteracyonline/" %}
 

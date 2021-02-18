@@ -23,6 +23,7 @@
 * [Mental Model](what-we-know/mental-model.md)
 * [Reading and Cognitive Challenges](what-we-know/reading-and-cognitive-challenges.md)
 * [Search and Navigation](what-we-know/search-and-navigation.md)
+* [Vaccine Hesitancy](what-we-know/vaccine-hesitancy.md)
 * [Case Study](what-we-know/case-study.md)
 
 ## Tools and Templates
@@ -34,6 +35,8 @@
 * [Crisis Communication](tools-and-templates/crisis-communication.md)
 * [List of Community Outreach Partners](tools-and-templates/list-of-community-outreach-partners.md)
 * [Data Collection, Visualization, and Reporting](tools-and-templates/data-collection-visualization-and-reporting.md)
+* [Transcreation and Translation](tools-and-templates/transcreation-and-translation.md)
+* [Edutainment](tools-and-templates/edutainment.md)
 
 ## Key Population Considerations
 
@@ -42,12 +45,6 @@
 * [Black and Brown Communities](key-population-considerations/black-and-brown-communities.md)
 * [Rural Communities](key-population-considerations/rural-communities.md)
 * [Hard-to-Reach Communities](key-population-considerations/hard-to-reach-communities.md)
-
-## Other Resources
-
-* [Edutainment](other-resources/edutainment.md)
-* [Transcreation and Translation](other-resources/transcreation-and-translation.md)
-* [Vaccine Hesitancy](other-resources/vaccine-hesitancy.md)
 
 ---
 
