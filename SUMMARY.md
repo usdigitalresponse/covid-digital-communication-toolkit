@@ -46,6 +46,8 @@
 ## Other Resources
 
 * [Edutainment](other-resources/edutainment.md)
+* [Transcreation and Translation](other-resources/transcreation-and-translation.md)
+* [Vaccine Hesitancy](other-resources/vaccine-hesitancy.md)
 
 ---
 
