@@ -1,12 +1,14 @@
 # Covid-19 Digital Communication Toolkit: A Health Equity Lens
 
-This guide is for government communications and media development teams who are responsible for designing, developing, and evaluating resident-facing COVID-19 digital tools with a health equity lens. These tools include but are not limited to websites, mobile apps, and digital print media with the goal of helping residents find COVID-19 vaccination and testing information easily and seamlessly.
-
-The information in this toolkit centralizes themes we have learned and trends we have analyzed through evidence-based research, 1\) working with multiple local and state government agencies including communication specialists and content managers, 2\) creating content and UX recommendations across devices and browsers to impact vaccination information-seeking behavior, and 3\) our collective decades of experience in health equity, communication, and literacy directly educating and reaching communities.
+The information in this toolkit centralizes themes we have learned and trends we have analyzed through evidence-based research:1\) working with multiple local and state government agencies including communication specialists and content managers, 2\) creating content and UX recommendations across devices and browsers to impact vaccination information-seeking behavior, and 3\) our collective decades of experience in health equity, communication, and literacy directly educating and reaching communities.
 
 This is a living document. We will continuously update it as we learn more from government and public health officials, communication teams, and health equity task forces.
 
-### **What is in this guide?**
+### Who is this toolkit for?
+
+This toolkit is for government communications and media development teams who are responsible for designing, developing, and evaluating resident-facing COVID-19 digital tools with a health equity lens. These tools include but are not limited to websites, mobile apps, and digital print media with the goal of helping residents find COVID-19 vaccination and testing information easily and seamlessly.
+
+### **What is in this toolkit?**
 
 1. \*\*\*\*[**Background**](introduction/background.md): Top communication needs that USDR has identified from information architecture, plain language, and transcreation.
 2. \*\*\*\*[**Health equity framework:** ](health-equity-framework/relationships-and-networks.md)The lens this toolkit takes in health communication literacy to reach all communities including those marginalized in access to COVID-19 vaccines.
