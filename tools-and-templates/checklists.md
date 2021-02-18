@@ -62,5 +62,7 @@ Secretary, H. O., & Office of the Chief Information Officer \(OCIO\). \(2021, Ja
 
 ODPHP. \(2016, June 8\). What We Know About Users with Limited Literacy Skills. Retrieved from [https://health.gov/healthliteracyonline/what-we-know/section-1-1/](https://health.gov/healthliteracyonline/what-we-know/section-1-1/) 
 
+Raskin, A., & Zahorian, I. \(2021, February 10\). When can I get vaccinated?: Resource Analysis \(February 2021\). Retrieved from [https://docs.google.com/presentation/d/1\_jAbQxtWglbvrxDWgvOapE\_2PtHenM-LjwhQQmjcfLQ/present\#slide=id.gbb0d6d51e7\_0\_174](https://docs.google.com/presentation/d/1_jAbQxtWglbvrxDWgvOapE_2PtHenM-LjwhQQmjcfLQ/present#slide=id.gbb0d6d51e7_0_174)
+
 Rosenwald, M. \(2020, December 26\). 'A needle makes my blood run cold': Will the phobic get the coronavirus vaccine? Retrieved from [https://www.washingtonpost.com/local/needles-fear-coronavirus-vaccine/2020/12/22/1c554500-408a-11eb-8db8-395dedaaa036\_story.html](https://www.washingtonpost.com/local/needles-fear-coronavirus-vaccine/2020/12/22/1c554500-408a-11eb-8db8-395dedaaa036_story.html)
 
