@@ -1,5 +1,7 @@
 # Transcreation and Translation
 
+### 
+
 ### COVID-19 resources for non-English speakers
 
 {% embed url="https://www.argotrans.com/covid-19/" caption="CDC’s general recommendations for COVID prevention translated into the most common languages in the U.S." %}
@@ -15,8 +17,6 @@
 {% embed url="https://espanol.cdc.gov/coronavirus/2019-ncov/index.html" caption="Use una cubierta de tela para la cara para ayudar a desacelerar la propagación del COVID-19" %}
 
 {% embed url="https://salud-america.org/juntos-podemos-detener-al-covid-19/" caption="Salud America! New Latino-focused bilingual campaign: Juntos, we can stop COVID-19!" %}
-
-###   <a id="covid-19-resources-for-spanish-speakers"></a>
 
 
 

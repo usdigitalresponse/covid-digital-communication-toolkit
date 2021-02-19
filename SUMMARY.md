@@ -12,9 +12,9 @@
 
 * [Overview](health-equity-framework/framework-overview.md)
 * [Relationships and Networks](health-equity-framework/relationships-and-networks.md)
-* [Individual Factors](health-equity-framework/individual-factors.md)
 * [Systems of Power](health-equity-framework/systems-of-power.md)
 * [Physiological Pathways](health-equity-framework/physiological-pathways.md)
+* [Individual Factors](health-equity-framework/individual-factors.md)
 
 ## What We Know
 
@@ -23,8 +23,6 @@
 * [Mental Model](what-we-know/mental-model.md)
 * [Reading and Cognitive Challenges](what-we-know/reading-and-cognitive-challenges.md)
 * [Search and Navigation](what-we-know/search-and-navigation.md)
-* [Vaccine Hesitancy](what-we-know/vaccine-hesitancy.md)
-* [Case Study](what-we-know/case-study.md)
 
 ## Tools and Templates
 
@@ -36,6 +34,7 @@
 * [List of Community Outreach Partners](tools-and-templates/list-of-community-outreach-partners.md)
 * [Data Collection, Visualization, and Reporting](tools-and-templates/data-collection-visualization-and-reporting.md)
 * [Transcreation and Translation](tools-and-templates/transcreation-and-translation.md)
+* [Vaccine Hesitancy](tools-and-templates/vaccine-hesitancy.md)
 * [Edutainment](tools-and-templates/edutainment.md)
 
 ## Key Population Considerations

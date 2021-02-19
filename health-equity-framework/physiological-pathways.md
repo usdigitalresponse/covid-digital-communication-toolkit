@@ -4,5 +4,5 @@
 
 ### Sources
 
-A. P., V. C., & D. Y. \(2020, August 19\). The Health Equity Framework: A Science- and Justice-Based Model for Public Health Researchers and Practitioners - Amy Peterson, Vignetta Charles, David Yeung, Karin Coyle, 2020. Retrieved February 14, 2021, from [https://journals.sagepub.com/doi/full/10.1177/1524839920950730](https://journals.sagepub.com/doi/full/10.1177/1524839920950730)
+Peterson, A., Charles, V., Yeung, D., & Coyle, K. \(2020\). The Health Equity Framework: A Science- and Justice-Based Model for Public Health Researchers and Practitioners. Health Promotion Practice, 152483992095073. doi:10.1177/1524839920950730
 
