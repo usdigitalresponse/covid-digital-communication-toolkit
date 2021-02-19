@@ -26,7 +26,6 @@
 * [Website Template](tools-and-templates/website-template.md)
 * [Printed and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
 * [Crisis Communication](tools-and-templates/crisis-communication.md)
-* [List of Community Outreach Partners](tools-and-templates/list-of-community-outreach-partners.md)
 * [Data Collection, Visualization, and Reporting](tools-and-templates/data-collection-visualization-and-reporting.md)
 * [Transcreation and Translation](tools-and-templates/transcreation-and-translation.md)
 * [Vaccine Hesitancy](tools-and-templates/vaccine-hesitancy.md)
