@@ -19,7 +19,6 @@
 ## What We Know
 
 * [Resident Personas](what-we-know/resident-personas.md)
-* [Logic Model](what-we-know/logic-model.md)
 * [Mental Model](what-we-know/mental-model.md)
 * [Reading and Cognitive Challenges](what-we-know/reading-and-cognitive-challenges.md)
 * [Search and Navigation](what-we-know/search-and-navigation.md)
@@ -27,6 +26,7 @@
 ## Tools and Templates
 
 * [Checklist](tools-and-templates/checklists.md)
+* [Logic Model](tools-and-templates/logic-model.md)
 * [Website Template](tools-and-templates/website-template.md)
 * [Mobile Template](tools-and-templates/mobile-template.md)
 * [Printed and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
