@@ -1,7 +1,7 @@
 # Rural Communities
 
 {% hint style="warning" %}
-**Systems of Power:** 
+**Systems of Power:** The obstacles faced by residents and healthcare providers in rural areas are vastly different than those in urban areas. The factors that create healthcare inequities and impeded rural residents to achieve the highest care and health are related to economic conditions, cultural and social differences, educational shortcomings, lack of recognition by legislators, and the sheer isolation of living in remote areas.
 {% endhint %}
 
 * **Recognize transportation barriers, offer a solution.** Especially in rural environments, transportation inconvenience or lack of access will be top-of-mind. Offer solutions/options in your communication plan to help provide better information about physical access to COVID-19 vaccines. 
