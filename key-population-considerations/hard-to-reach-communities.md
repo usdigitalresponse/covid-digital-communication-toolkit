@@ -1,2 +1,0 @@
-# Hard-to-Reach Communities
-
