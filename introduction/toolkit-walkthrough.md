@@ -13,5 +13,3 @@ Answering the questions below will help you and your team understand how you can
 
 * [ ] **If you have not** made any decisions about health equity yet, start with [Health Equity Framework Overview](../health-equity-framework/framework-overview.md).
 
-
-
