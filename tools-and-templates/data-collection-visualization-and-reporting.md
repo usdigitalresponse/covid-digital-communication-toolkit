@@ -1,10 +1,10 @@
 # Data Collection, Visualization, and Reporting
 
 {% hint style="warning" %}
-**Systems of Power:** Place-based health metrics like these capture key contributors to risk of getting COVID-19 or having a worse outcome including poverty, reliance on public transportation, and crowded housing.
+**Systems of Power:** Place-based health metrics like these capture key contributors to the risk of getting COVID-19 or having a worse outcome including poverty, reliance on public transportation, and crowded housing.
 {% endhint %}
 
-The National Academies’ report recommends **place-based measures** of social vulnerability, such as the Centers for Disease Control & Prevention Social Vulnerability Index \(SVI\) or the COVID-19 Community Vulnerability Index \(CCVI\), that include racial, ethnic and language composition of a census tract. 
+The National Academies’ report recommends **place-based measures** of social vulnerability, such as the Centers for Disease Control & Prevention Social Vulnerability Index \(SVI\) or the COVID-19 Community Vulnerability Index \(CCVI\), which includes racial, ethnic, and language composition of a census tract. 
 
 ### Examples of Equitable COVID-19 Data Collection
 
