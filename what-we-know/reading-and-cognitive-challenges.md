@@ -20,5 +20,3 @@ Nguyen, S. \(2020, December 31\). 3-Day Research Sprint: How residents look for 
 
 ODPHP. \(2016, June 8\). What We Know About Users with Limited Literacy Skills. Retrieved from [https://health.gov/healthliteracyonline/what-we-know/section-1-1/](https://health.gov/healthliteracyonline/what-we-know/section-1-1/)
 
-
-
