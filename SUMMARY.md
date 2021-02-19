@@ -40,8 +40,6 @@
 * [Rural Communities](key-population-considerations/rural-communities.md)
 * [Hard-to-Reach Communities](key-population-considerations/hard-to-reach-communities.md)
 
-## Health Equity Framework
-
 ---
 
 * [Contact Us](contact-us.md)
