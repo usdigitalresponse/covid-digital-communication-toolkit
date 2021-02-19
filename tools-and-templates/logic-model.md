@@ -9,13 +9,9 @@ Local and state government agencies have the opportunity to impact COVID-19 vacc
 1. Increase COVID-19 vaccination rates in the United States across all 50 states
 2. Eliminate racial disparity and reduce geographic disparities in COVID-19 vaccination
 
-### Contextual Factors
-
-tbd
-
 ### Logic Model
 
-| Core Strategies | Inputs | Activities | Outputs | Short-term Outcomes | Medium-term Outcomes | Impact |
+| Core Strategies | Inputs | Activities | Outputs | Short-term Outcomes | Med-term Outcomes | Impact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |  |  |  | ↓\# resident phone calls regarding COVID-19 vaccine and testing  | ↑knowledge and attitude to seek vaccine to self and family | ↑behavior to actualize seeking vaccine | **↑** COVID-19 vaccinations rates, particularly among communities of color and targeted geographies with historically low rates |
 |  |  |  | ↓\# resident emails  regarding COVID-19 vaccine and testing  |  |  | ↓ rates of COVID-19 infections |
