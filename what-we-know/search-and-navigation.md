@@ -13,7 +13,7 @@ When reading, users with limited literacy skills focus on the **center of the sc
 
 ### **How do people currently navigate information around how they will get a vaccine and learn about their eligibility?**
 
-* **Top Query Searches:** 
+* **Top Query Searches from English speakers:** 
 
   * "where can I get vaccinated in my county?"
   * “when can I get the covid vaccine?”
