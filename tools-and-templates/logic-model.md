@@ -13,7 +13,7 @@ Local and state government agencies have the opportunity to impact COVID-19 vacc
 
 | Core Strategies | Inputs | Activities | Outputs | Short-term Outcomes | Med-term Outcomes | Impact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  |  | ↓\# resident phone calls regarding COVID-19 vaccine and testing  | ↑knowledge and attitude to seek vaccine to self and family | ↑behavior to actualize seeking vaccine | **↑** COVID-19 vaccinations rates, particularly among communities of color and targeted geographies with historically low rates |
+| 1.Get to know your residents |  |  | ↓\# resident phone calls regarding COVID-19 vaccine and testing  | ↑knowledge and attitude to seek vaccine to self and family | ↑behavior to actualize seeking vaccine | **↑** COVID-19 vaccinations rates, particularly among communities of color and targeted geographies with historically low rates |
 |  |  |  | ↓\# resident emails  regarding COVID-19 vaccine and testing  |  |  | ↓ rates of COVID-19 infections |
 |  |  |  |  |  |  | ↓ COVID-19 morbidity and mortality |
 |  |  |  |  |  |  | ↓ disparities in COVID-19 morbidity and mortality |
