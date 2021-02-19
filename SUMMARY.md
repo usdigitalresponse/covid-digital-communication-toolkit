@@ -24,7 +24,6 @@
 * [Checklist](tools-and-templates/checklists.md)
 * [Logic Model](tools-and-templates/logic-model.md)
 * [Website Template](tools-and-templates/website-template.md)
-* [Mobile Template](tools-and-templates/mobile-template.md)
 * [Printed and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
 * [Crisis Communication](tools-and-templates/crisis-communication.md)
 * [List of Community Outreach Partners](tools-and-templates/list-of-community-outreach-partners.md)

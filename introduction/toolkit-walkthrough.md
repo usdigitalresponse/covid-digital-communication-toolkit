@@ -1,6 +1,6 @@
 # Toolkit Walkthrough
 
-Communication and content development teams at local and state governments vary in their **COVID-19 comms response strategy** to vaccinations and testing. 
+Communication and content development teams at local and state governments vary in their COVID-19 comms response strategy to vaccinations and testing. 
 
 Answering the questions below will help you and your team understand how you can best use this toolkit:
 
