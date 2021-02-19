@@ -44,11 +44,5 @@ Therefore, we listed resources from **trusted organizations** for print media su
 
 {% embed url="https://www.nami.org/Support-Education/NAMI-HelpLine/COVID-19-Information-and-Resources" %}
 
-
-
-
-
-
-
-
+### **Edutainment**
 
