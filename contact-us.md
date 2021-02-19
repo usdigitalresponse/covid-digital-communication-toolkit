@@ -6,7 +6,7 @@ News around COVID-19 vaccines is evolving quickly. As we learn more, we will add
 
 ### Ask for help
 
-In the meantime, if you would like more information or pro-bono support from our teams of technologists at USDR, please [reach out](https://www.usdigitalresponse.org/request-help/). We will get back to you within hours.
+If you would like more information or pro-bono support from our teams of technologists at USDR, please [reach out](https://www.usdigitalresponse.org/request-help/). We will get back to you within hours.
 
 ### Share this toolkit
 
