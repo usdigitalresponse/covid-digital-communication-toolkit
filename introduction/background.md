@@ -30,7 +30,7 @@ In a short qualitative research study with a sample of six residents with varyin
 Furthermore, anecdotal resident stories from our partners and web analytics confirm how **residents are frustrated** and are experiencing information navigation challenges. Elderly residents call first for vaccine appointment scheduling due to poor information architecture on county and state websites. **Bilingual residents** receive support from their children as translated content does not accommodate for their dialects and health literacy levels. This toolkit reduces these literacy inequities and improves the user experience of residents navigating for COVID-19 information on government digital tools.  
 
 
-#### Sources
+### Sources
 
 Nguyen, S. \(2020, December 31\). 3-Day Research Sprint: How residents look for Covid-19 vaccine information \[Policy Memo\]. Los Angeles: US Digital Response. Retrieved February 14, 2021, from [https://bit.ly/3tYdmzT](https://bit.ly/3tYdmzT)   
 
