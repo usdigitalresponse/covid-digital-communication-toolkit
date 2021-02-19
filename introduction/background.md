@@ -10,7 +10,9 @@ Collaborating with USDR’s local and state government on designing vaccine webp
 
 As such, content managers and developers of COVID-19 digital health information tools are faced with **the difficult task o**f imagining what your end**-**users will find understandable and actionable. 
 
-Although there are a number of strategies from personas to use cases to make your vaccine webpages more user-friendly, many do not account for the everyday changes in residents’ attitudes, behaviors, and wayfinding efforts related to vaccines and testing. This toolkit aims to **close the gap** that exists between writers and developers and their end-users. It provides actionable steps for creating more accessible and equitable consumer-centric digital tools that have the potential to ease the burden of navigating complex digital health information.  
+Although there are a number of strategies from personas to use cases to make your vaccine webpages more user-friendly, many do not account for the everyday changes in residents’ attitudes, behaviors, and wayfinding efforts related to vaccines and testing. 
+
+This toolkit aims to **close the gap** that exists between writers and developers and their end-users. It provides actionable steps for creating more accessible and equitable consumer-centric digital tools that have the potential to ease the burden of navigating complex digital health information.  
 
 
 ### From Residents

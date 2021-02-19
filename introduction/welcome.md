@@ -1,6 +1,6 @@
 # Welcome
 
-The information in this toolkit centralizes themes we have learned and trends we have analyzed through evidence-based research:1\) working with multiple local and state government agencies including communication specialists and content managers, 2\) creating content and UX recommendations across devices and browsers to impact vaccination information-seeking behavior, and 3\) our collective decades of experience in health equity, communication, and literacy directly educating and reaching communities.
+The information in this toolkit centralizes health equity principles, practical examples, themes, and evidence-based research: 1\) working with multiple local and state government agencies including communication specialists and content managers, 2\) creating content and UX recommendations across devices and browsers to impact vaccination information-seeking behavior, and 3\) our collective decades of experience in health equity, communication, and literacy directly educating and reaching communities.
 
 This is a living document. We will continuously update it as we learn more from government and public health officials, communication teams, and health equity task forces.
 
