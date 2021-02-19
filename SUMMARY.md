@@ -4,7 +4,6 @@
 
 ## Introduction
 
-* [Welcome](introduction/welcome.md)
 * [Background](introduction/background.md)
 * [Toolkit Walkthrough](introduction/toolkit-walkthrough.md)
 
