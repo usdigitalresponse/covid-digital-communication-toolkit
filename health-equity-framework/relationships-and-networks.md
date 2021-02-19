@@ -1,7 +1,7 @@
 # Relationships and Networks
 
 {% hint style="danger" %}
-**Relationships and Networks:** refers to the connections and support structures made up of family \(biological, adopted, or chosen\), friends, romantic partners, and people within cultural communities, neighborhoods, schools, and workplaces \(Peterson, 2020\).
+**Relationships and Networks:** refers to the connections and support structures made up of family \(biological, adopted, or chosen\), friends, romantic partners, and people within cultural communities, neighborhoods, schools, and workplaces \(Peterson et al., 2020\).
 {% endhint %}
 
 Maintaining social relationships is important for maintaining health. Relationships and networks include family structure, friends, romantic partners, cultural communities, schools, and neighborhoods. Relationships may promote health equity with **protective factors** **against health-harming behaviors** \(Holt-Lunstad et al., 2010\), or intensify poorer health outcomes by enabling health-harming behaviors \(Patton et al., 2016\). 
