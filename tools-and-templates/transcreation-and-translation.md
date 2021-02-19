@@ -1,6 +1,12 @@
 # Transcreation and Translation
 
-### 
+{% hint style="success" %}
+**Individual Factors:** Writing multilingual content requires messaging that aligns with the intent and values of your residents' language and dialects. Simply using Google Translate doesn't resolve dialect and values transported in a language.
+{% endhint %}
+
+* **Test content** with a native, bilingual speaker to ensure that the intent of the messaging is satisfied in the new transcreated version
+* **Create content** that also captures the diversity of the United States and be creative with translation strategies - recognizing colloquial adaptations in the language \(hybrid bilingual conversational languages e.g., Taglish, Spanglish, etc\)
+* **Always check** the reading level in both languages to ensure that content understandability from a literacy perspective is maintained through the transcreation process.
 
 ### COVID-19 resources for non-English speakers
 
