@@ -6,14 +6,11 @@
 
 * [Background](introduction/background.md)
 * [Toolkit Walkthrough](introduction/toolkit-walkthrough.md)
-
-## Health Equity Framework
-
-* [Overview](health-equity-framework/framework-overview.md)
-* [Relationships and Networks](health-equity-framework/relationships-and-networks.md)
-* [Systems of Power](health-equity-framework/systems-of-power.md)
-* [Physiological Pathways](health-equity-framework/physiological-pathways.md)
-* [Individual Factors](health-equity-framework/individual-factors.md)
+* [Health Equity Framework](introduction/health-equity-framework-overview/README.md)
+  * [Individual Factors](introduction/health-equity-framework-overview/individual-factors.md)
+  * [Physiological Pathways](introduction/health-equity-framework-overview/physiological-pathways.md)
+  * [Systems of Power](introduction/health-equity-framework-overview/systems-of-power.md)
+  * [Relationships and Networks](introduction/health-equity-framework-overview/relationships-and-networks.md)
 
 ## What We Know
 
@@ -42,6 +39,8 @@
 * [Black and Brown Communities](key-population-considerations/black-and-brown-communities.md)
 * [Rural Communities](key-population-considerations/rural-communities.md)
 * [Hard-to-Reach Communities](key-population-considerations/hard-to-reach-communities.md)
+
+## Health Equity Framework
 
 ---
 
