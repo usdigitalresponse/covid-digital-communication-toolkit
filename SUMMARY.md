@@ -22,7 +22,6 @@
 ## Tools and Templates
 
 * [Checklist](tools-and-templates/checklists.md)
-* [Logic Model](tools-and-templates/logic-model.md)
 * [Website Template](tools-and-templates/website-template.md)
 * [Printed and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
 * [Crisis Communication](tools-and-templates/crisis-communication.md)
