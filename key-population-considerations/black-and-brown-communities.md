@@ -6,18 +6,18 @@
 
 That can be representing that **key influencer** in your content or as part of your dissemination and outreach campaigns. This is especially key considering recent research that shows that adults in Black and Latino communities are less likely to know someone or personally have received at least one dose of the vaccine, yet also most likely to want to see how the vaccine is working for other people they know \(Hamel et al., 2021\). Getting more **testimonials** out there digitally with far reach will increase relationship-based transmission of health behaviors while leveraging the scale of digital media to reach audiences that the testimonial might resonate with beyond someone’s local network.
 
-### **Tips & Considerations**
-
 * **Racism is a risk factor** for COVID, not race. If discussing race and COVID vaccinations, Be clear on your intent. You need to be specific as to how the two relate \(racism and systemic inequalities and vaccine availability/uptake/trust\) and what action items your message is thus trying to call into action. 
 * **Don’t assume a shared identity in your content outreach strategy.** So many communities are part of the Black+ Community, as such it’s key to recognize the potential for reductionist behavior in assuming one identity that is shared across these communities. About 50% of Hispanic adults say they most often describe themselves by their **family’s country of origin** or heritage, using terms such as Mexican, Cuban, Puerto Rican or Salvadoran.. \(Gonzalez-Barrera, 2020\) About three-quarters of black adults say that **being black** is extremely \(52%\) or very \(22%\) important to how they think about themselves; by comparison, about six-in-ten Hispanic \(59%\) and 56% of Asian adults say being Hispanic or Asian, respectively, is extremely or very important to their identity \(Menasce Horowitz et al., 2019\)
 
 ![From The Permanente Medical Group: &#x201C;Protecting Yourself and Your Family during COVID 19.&#x201D;](https://lh5.googleusercontent.com/t0xFrzFbJR7SxGJ0Lou65CYwO9C99pn3bQTr_ok9I_xMcnxyYLvqy1gvUgX4cgJ9y8OU63TkzJDm1ZDzngr__QPdw8v3YT7VA7c6F54HkPNmcifWR4a52CEifud41bKpq3oLqnRg)
 
 * **Avoid assumptions of homogeneity in linguistic preferences.** There is significant linguistic diversity in America’s Black and Brown Communities, your communication strategy needs to take this into account and not center your outreach strategy on language alone. **Speaking Spanish** seen as a key part of Hispanic identity, use this to consider how to reach this population. \(For U.S. Hispanics, Speaking Spanish Is the Most Important Part of Hispanic Identity across Immigrant Generations, 2020\) 
-* **Acknowledge valid concerns regarding vaccine safety.**  Given the historical context of medical misconduct towards black and brown communities, there are generational impacts to the trust the medical community has not earned back. Recognizing this history of inequities and social justice issues, and the lower rates of clinical trials participation from these racial groups, we need to address concerns with humility while also reassuring them of vaccine safety and efficacy in this case. 
-* **Present clear information on side effects versus safety issues.** Highlight the differences between expected brief reactions to the vaccine versus critical safety issue. Fact to highlight might be that of those who have been vaccinated, 45% had minor side effects, 7 percent moderate, and none severe \(COVID Collaborative, 2021\).
-* **Recognize concerns on immigration status/documentation.** Acknowledgment of one’s concern for safety is key to also sharing messages of vaccine availability and access. Offer [resources like this one to inform them on Immigrant Rights](https://www.immigrantdefenseproject.org/ice-home-and-community-arrests/#unique). If possible assure them that healthcare providers are not legally obligated to report nor document immigration status at point of care.
-* **Recognize barriers, offer a solution.** Some individuals, particularly those who are still independent, may have perceived transportation inconvenience \(lack of access\) or financial concerns. Acknowledge perceived barriers and highlight solutions in your messaging \(e.g., clarity on cost of vaccine and clarify there are no hidden costs by healthcare providers; help them locate facilities near public transportation options\).
+* **Acknowledge valid concerns regarding vaccine safety.**  Given the historical context of medical misconduct towards black and brown communities, there are generational impacts to the trust the medical community has not earned back. Recognizing this history of inequities and social justice issues, and the lower rates of clinical trial participation from these racial groups, we need to address concerns with humility while also reassuring them of vaccine safety and efficacy in this case. 
+* **Present clear information on side effects versus safety issues.** Highlight the differences between expected brief reactions to the vaccine versus critical safety issues. The Fact to highlight might be that of those who have been vaccinated, 45% had minor side effects, 7 percent moderate, and none severe \(COVID Collaborative, 2021\).
+* **Recognize concerns on immigration status/documentation.** Acknowledgment of one’s concern for safety is key to also sharing messages of vaccine availability and access. Offer [resources like this one to inform them on Immigrant Rights](https://www.immigrantdefenseproject.org/ice-home-and-community-arrests/#unique). If possible assure them that healthcare providers are not legally obligated to report nor document immigration status at the point of care.
+* **Recognize barriers, offer a solution.** Some individuals, particularly those who are still independent, may have perceived transportation inconvenience \(lack of access\) or financial concerns. Acknowledge perceived barriers and highlight solutions in your messaging \(e.g., clarity on 
+
+  the cost of the vaccine and clarify there are no hidden costs by healthcare providers; help them locate facilities near public transportation options\).
 
 ![The Permanente Medical Group: Tailored content for African American patients](https://lh3.googleusercontent.com/nJn13BgPwqXq5fkV7dOPSxcrSoL-bRLnB8bKWCk7dPOQEZL8FDQb9eXUFlWaElcbgubf1jE18C7kIoB4LJktBMliN9l7XtjcMtYz9c93ePKhyjeDaIGAwyjBJjmtZiOMRSTkYhPA)
 
@@ -35,25 +35,14 @@ That can be representing that **key influencer** in your content or as part of y
 
 ![The Permanente Medical Group: Fontonovelas are bilingual transcreated content available that resonate within the Latino Community ](https://lh3.googleusercontent.com/r1nxcGoSg08kxvnfhqUIc3M3_fPMKVKYxuHZNLMgBvaVO7-3BkbFiJxWt0JBsFUiV06bSwr5OLEWtG5UVWKN3Wa8aTYEIoDVeexwuISlzPMTzHVRUs8MF11cpRY6ZSHbx7500uOs)
 
-**Considers use of modalities that resonate within the Latino Community, fotonovela. Bilingual, . Utilizes Youtube for sharing accessibly.**   
-
-
-* **Ask community culture brokers to help spread the word and serve as a mediator.** Build relationships with trusted messengers from diverse organizations and community groups. Finding individuals in the local community that have been vaccinated to build trust and to widen the net of those who know someone who have had successful experiences with vaccination \(use of video, written, media testimonials\)
+* **Ask community culture brokers to help spread the word and serve as a mediator.** Build relationships with trusted messengers from diverse organizations and community groups. Finding individuals in the local community that have been vaccinated to build trust and to widen the net of those who know someone who has had successful experiences with vaccination \(use of video, written, media testimonials\)
   * Work closely with the IHS to work with them on outreach communication in the Tribal Nations.
   * Identify local channels for community health \(e.g., Promotoras\) and ask for their participation in a video testimonial, news segment, social media campaign, so on.
   * Leverage local religious institutions to reinforce vaccine availability information and services. Again, ask for their participation in local campaigns and content design.
 
-![](https://lh5.googleusercontent.com/z3Tb-aS035c-mDy3Ebq63pbF8kA2siXOlf0t6cAbOJv1jBVKLaYgRVpL_jBWZp1dnA4vkJ2-r_Jlq5xIF7yLvYcENduQ8oF2m9GySdG_5CNf-XcfUcQNeLxqhZJmdSMETWoTHDLs)
+![Minnesota Department of Health: Highlights local partnerships and in-community clinics for vaccine access](https://lh5.googleusercontent.com/z3Tb-aS035c-mDy3Ebq63pbF8kA2siXOlf0t6cAbOJv1jBVKLaYgRVpL_jBWZp1dnA4vkJ2-r_Jlq5xIF7yLvYcENduQ8oF2m9GySdG_5CNf-XcfUcQNeLxqhZJmdSMETWoTHDLs)
 
-**From Minnesota Department of Health**  
-
-
-**Highlights local partnerships and in-community clinics for vaccine access. Emphasizes relationships and networks as a key influencing factor to vaccine uptake.**  
-
-
-**\(Vaccine Central \| National Resource Center for Refugees, Immigrants, and Migrants \(NRC-RIM\), n.d.\)**
-
-**Sources, resources, links, and other assets**
+### **Sources**
 
 **Berkeley Media Studies Group. \(2020, December 8\). Communicating about the COVID-19 vaccines: Guidance and sample messages for public health practitioners. Berkeley Media Studies Group.** [**http://www.bmsg.org/resources/publications/communicating-covid-19-vaccines-guidance-and-sample-messages-for-public-health-practitioners/**](http://www.bmsg.org/resources/publications/communicating-covid-19-vaccines-guidance-and-sample-messages-for-public-health-practitioners/) ****
 
