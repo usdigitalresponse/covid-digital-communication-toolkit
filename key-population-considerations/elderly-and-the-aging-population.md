@@ -6,7 +6,7 @@
 
 * Tailored COVID-19 messaging need to address **different living situations** to  address different motivators in the aging populations in your communities
 * This includes messaging directly to a **caregiver** of an elderly person to motivate, educate, create awareness around COVID vaccinations
-* Specify who is your **target audience** \(not all elderly identify as “older adult and/or at risk”\)
+* Specify who is your **primary audience** \(not all elderly identify as “older adult and/or at risk”\)
 
 {% embed url="https://ncapps.acl.gov/covid-19-resources.html" caption="Example of tailored messaging from Health Care Person-Centered view " %}
 
