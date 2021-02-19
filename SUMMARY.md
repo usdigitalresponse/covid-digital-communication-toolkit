@@ -34,7 +34,6 @@
 * [Data Collection, Visualization, and Reporting](tools-and-templates/data-collection-visualization-and-reporting.md)
 * [Transcreation and Translation](tools-and-templates/transcreation-and-translation.md)
 * [Vaccine Hesitancy](tools-and-templates/vaccine-hesitancy.md)
-* [Edutainment](tools-and-templates/edutainment.md)
 
 ## Key Population Considerations
 
