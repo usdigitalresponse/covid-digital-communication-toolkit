@@ -1,13 +1,13 @@
-# Rural and Hard-to-reach Communities
+# Rural and Hard-to-Reach Communities
 
 {% hint style="warning" %}
-**Systems of Power:** 
+**Systems of Power:** The obstacles faced by residents and healthcare providers in rural areas are vastly different than those in urban areas. The factors that create healthcare inequities and impeded rural residents to achieve the highest care and health are related to economic conditions, cultural and social differences, educational shortcomings, lack of recognition by legislators, and the sheer isolation of living in remote areas.
 {% endhint %}
 
 * **Recognize transportation barriers, offer a solution.** Especially in rural environments, transportation inconvenience or lack of access will be top-of-mind. Offer solutions/options in your communication plan to help provide better information about physical access to COVID-19 vaccines. 
 * **Offer mailed information to communities where internet bandwidth may be limited or not consistent.** Low internet bandwidth is a reality in many rural communities. Try different outreach methods leveraging digital communications in a printed format to reach this constituency. This can be automated by using bulk messaging actions through healthcare provider EHRs.
 
-{% embed url="https://www.ruralhealthinfo.org/toolkits/sdoh" caption="Rural Health Information Hub: Social Determinants of Health in Rural Communities Toolkit" %}
+{% embed url="https://www.ruralhealthinfo.org/toolkits/transportation" caption="Rural Health Information Hub: Rural Transportation in Rural Communities Toolkit" %}
 
 * **Answer questions on financial concerns.** Clarify free-offering of vaccines and clarify there are no hidden costs by healthcare providers.
 * **Offer resolution regarding religious considerations.** Religious community is often a key foundation in rural communities to access health information, community belonging, and social events. Use digital media to highlight key examples of messaging that can provide community members an example of someone who they can relate to \(and trust\) to get the vaccine while also keeping a sense of fatalism \(fatalismo\) that’s a cornerstone in many religions and even secular communities.
