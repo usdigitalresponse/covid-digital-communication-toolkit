@@ -2,13 +2,19 @@
 
 ### This toolkit offers detailed, step-by-step guidance to help health communicators, content developers, educators, and health promotion leaders put health equity recommendations into COVID-19 communication action.
 
-The information in this toolkit centralizes health equity principles, practical examples, themes, and evidence-based research: 1\) working with multiple local and state government agencies including communication specialists and content managers, 2\) creating content and UX recommendations across devices and browsers to impact vaccination information-seeking behavior, and 3\) our collective decades of experience in health equity, communication, and literacy directly educating and reaching communities.
+The information in this toolkit centralizes themes we have learned and trends we have analyzed through evidence-based research. They are as follows:
 
-This is a living document. We will continuously update it as we learn more from government and public health officials, communication teams, and health equity task forces. If you would like more information or pro-bono support from our teams of technologists at USDR, please [reach out](https://www.usdigitalresponse.org/request-help/). We will get back to you within hours.
+1. Working with multiple local and state government agencies, including communication specialists and content managers, 
+2. Creating content and UX recommendations across devices and browsers to impact vaccination information-seeking behavior, and 
+3. Our collective decades of experience in health equity, communication, and literacy directly educating and reaching communities.
+
+This is a living document. We will continuously update it as we learn more from government and public health officials, communication teams, and health equity task forces. 
+
+If you would like more information or pro-bono support from our teams of technologists at USDR, please [reach out](https://www.usdigitalresponse.org/request-help/). We will get back to you within hours.
 
 ### Who is this toolkit for?
 
-This toolkit is for government communications and media development teams who are responsible for designing, developing, and evaluating resident-facing COVID-19 digital tools with a health equity lens. These tools include but are not limited to websites, mobile apps, and digital print media with the goal of helping residents find COVID-19 vaccination and testing information easily and seamlessly.
+This toolkit is for government communications and media development teams, trusted messenger centers, and community-based organizations that are responsible for designing, developing, and evaluating resident-facing COVID-19 digital tools with a health equity lens. These tools include but are not limited to websites, mobile apps, and digital print media with the goal of helping residents find COVID-19 vaccination and testing information easily and seamlessly.
 
 ### **What is in this toolkit?**
 
