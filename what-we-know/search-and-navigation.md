@@ -9,11 +9,19 @@ When navigating a website, users with limited literacy skills tend to:
 
 When reading, users with limited literacy skills focus on the **center of the screen.** Once they shift their focus from the navigation to the center of the screen, they’re unlikely to look back to the navigation to solve a problem or change course if the content isn’t meeting their needs.
 
-![](https://lh5.googleusercontent.com/gDW1L0HoeIIfE98aNrFDTUgtXyGCrrTcwVTOB2fv0lfn3iE1XF6Hhnb857-b5sCllPwV3wGNHVCljv54n7MMBM3GzG48Hup_qYNk9ogOgKdld40iOBUZwGVA2h8koXUPv1y9-o1pC7E)
+{% embed url="https://medium.com/u-s-digital-response/understanding-how-essential-workers-navigate-vaccine-information-online-b0ccd68daf7a" %}
 
 ### **How do people currently navigate information around how they will get a vaccine and learn about their eligibility?**
 
-* **Top Query Searches from English speakers:** 
+* **Top three search takeaways:**
+
+  * Search 1: Multiple searches, vague information, PDF downloads, and no answer
+  * Search 2: State government and public health websites that highlight a prioritization framework, with no current details on next steps
+  * Search 3: Going straight to workplace resources or to your primary care provider
+
+  \*\*\*\*
+
+* **Top query searches from English speakers:** 
 
   * "where can I get vaccinated in my county?"
   * “when can I get the covid vaccine?”
