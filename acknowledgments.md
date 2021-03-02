@@ -11,5 +11,6 @@ We thank many people who contributed to this toolkit, including:
 * Madeleine Lee
 * Jennifer Strickland
 * Megan O'Rorke
+* Joy Prescott
 * Our government partners
 
