@@ -16,8 +16,8 @@
 
 * [Resident Personas](what-we-know/resident-personas.md)
 * [Mental Model](what-we-know/mental-model.md)
-* [Reading and Cognitive Challenges](what-we-know/reading-and-cognitive-challenges.md)
 * [Search and Navigation](what-we-know/search-and-navigation.md)
+* [Reading and Cognitive Challenges](what-we-know/reading-and-cognitive-challenges.md)
 
 ## Tools and Templates
 
