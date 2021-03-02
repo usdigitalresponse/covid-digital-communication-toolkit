@@ -6,7 +6,7 @@
 
 **Transcreation is creative translation.** It is the act of changing a text to make its meaning culturally responsive to your audience. By transcreating content, you are not simply transferring verbatim text from one language to another. Rather, you are considering slight nuances and cultural subtleties that could cause the meaning to be lost in the process of translation. 
 
-By allowing creative agency in the translating process, a professional transcreator can ensure that content across many languages retains its **true intent** while allowing for variations in the copy to ensure understandability, resonance, and health communication/health literacy best practices are still in place.
+By allowing creative agency in the translating process, a professional transcreator can ensure that content across many languages retains its **true intent, tone and style** while allowing for variations in the copy to ensure understandability, resonance, and health communication/health literacy best practices are still in place.
 
 > **An example:** The word “drug” is often used to describe medication in health communication in US English. However if you were to translate directly to Spanish the word would be “drogas” which would not be typically associated with medications in a Spanish-speaking community. So although using the term “medicamento” or “medicinas” may seem to raise the level of necessary reading comprehension, this term will be better understood and more accessible to the community you are trying to reach. This is the transcreation mindset.
 
