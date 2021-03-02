@@ -12,8 +12,7 @@ As such, content managers and developers of COVID-19 digital health information 
 
 Although there are a number of strategies from personas to use cases to make your vaccine webpages more user-friendly, many do not account for the everyday changes in residents’ attitudes, behaviors, and wayfinding efforts related to vaccines and testing. 
 
-This toolkit aims to **close the gap** that exists between writers and developers and their end-users. It provides actionable steps for creating more accessible and equitable consumer-centric digital tools that have the potential to ease the burden of navigating complex digital health information.  
-
+This toolkit aims to **close the gap** that exists between writers and developers and their end-users. It provides actionable steps for creating more accessible and equitable consumer-centric digital tools that have the potential to ease the burden of navigating complex digital health information.
 
 ### From Residents
 
@@ -27,8 +26,9 @@ In a short qualitative research study with a sample of six residents with varyin
 >
 > “When will 1b group get vaccine”
 
-Furthermore, anecdotal resident stories from our partners and web analytics confirm how **residents are frustrated** and are experiencing information navigation challenges. Elderly residents call first for vaccine appointment scheduling due to poor information architecture on county and state websites. **Bilingual residents** receive support from their children as translated content does not accommodate for their dialects and health literacy levels. This toolkit reduces these literacy inequities and improves the user experience of residents navigating for COVID-19 information on government digital tools.  
+Furthermore, anecdotal resident stories from our partners and web analytics confirm how **residents are frustrated** and are experiencing information navigation challenges. Elderly residents call first for vaccine appointment scheduling due to poor information architecture on county and state websites. 
 
+**Bilingual residents** receive support from their children as translated content does not accommodate for their dialects and health literacy levels. This toolkit reduces these literacy inequities and improves the user experience of residents navigating for COVID-19 information on government digital tools.
 
 ### Sources
 
