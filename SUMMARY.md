@@ -7,10 +7,10 @@
 * [Background](introduction/background.md)
 * [Toolkit Walkthrough](introduction/toolkit-walkthrough.md)
 * [Health Equity Framework](introduction/health-equity-framework-overview/README.md)
-  * [Individual Factors](introduction/health-equity-framework-overview/individual-factors.md)
-  * [Physiological Pathways](introduction/health-equity-framework-overview/physiological-pathways.md)
-  * [Systems of Power](introduction/health-equity-framework-overview/systems-of-power.md)
   * [Relationships and Networks](introduction/health-equity-framework-overview/relationships-and-networks.md)
+  * [Systems of Power](introduction/health-equity-framework-overview/systems-of-power.md)
+  * [Physiological Pathways](introduction/health-equity-framework-overview/physiological-pathways.md)
+  * [Individual Factors](introduction/health-equity-framework-overview/individual-factors.md)
 
 ## What We Know
 
