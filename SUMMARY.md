@@ -28,9 +28,9 @@
 * [Printed and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
 * [Messaging Examples](tools-and-templates/messaging-examples.md)
 * [Crisis Communication](tools-and-templates/crisis-communication.md)
-* [Data Collection, Visualization, and Reporting](tools-and-templates/data-collection-visualization-and-reporting.md)
-* [Transcreation and Translation](tools-and-templates/transcreation-and-translation.md)
 * [Vaccine Hesitancy](tools-and-templates/vaccine-hesitancy.md)
+* [Transcreation and Translation](tools-and-templates/transcreation-and-translation.md)
+* [Data Collection, Visualization, and Reporting](tools-and-templates/data-collection-visualization-and-reporting.md)
 
 ## Key Population Considerations
 

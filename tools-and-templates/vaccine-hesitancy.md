@@ -8,6 +8,13 @@
 
 ### Communication Tactics for Vaccine Confidence
 
+**Moderate your organization's social media** and marketing platforms by assigning a community manager to engage with residents apply the SWIFT Method \(Caulfield, 2020\) to respond to misinformation:
+
+* **Stop**: when you encounter potential misinformation. Even deciding not to share the content is a success metric
+* **Investigate the source:** who is sharing the information? Is this from a reputable source \(sometimes there's no source, or there is imposter content\)? Use Google to look up news sources
+* **Find better coverage:** look up what other coverage is on the same topic/ event. Focus on trusted sources by fact-checking sites. Do reverse image searches for false context of connection
+* **Trace claims, quotes, and media to the original context:** click through links to find the original source. 
+
 ![](../.gitbook/assets/screen-shot-2021-03-02-at-9.33.34-am%20%281%29.png)
 
 ### Vaccine Hesitancy among the Hispanic Community
