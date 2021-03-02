@@ -4,7 +4,7 @@ Communication and content development teams at local and state governments vary 
 
 Answering the questions below will help you and your team understand how you can best use this toolkit:
 
-**Have you integrated health equity best practices into your COVID-19 digital communication such as on your agency's website, mobile, marketing, and social media campaigns?**
+**Have you integrated health equity best practices into your COVID-19 digital communication such as on your organization's website, mobile, marketing, and social media campaigns?**
 
 * [ ] **If yes,** do you have a health equity task force or Diversity, Equity, and Inclusion \(DEI\) committee to support you in developing equitable COVID-19 communication?
 

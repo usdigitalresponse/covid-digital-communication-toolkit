@@ -22,7 +22,9 @@
 ## Tools and Templates
 
 * [Checklist](tools-and-templates/checklists.md)
+* [Success Metrics](tools-and-templates/success-metrics.md)
 * [Website Template](tools-and-templates/website-template.md)
+* [Mobile Template](tools-and-templates/mobile-template.md)
 * [Printed and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
 * [Messaging Examples](tools-and-templates/messaging-examples.md)
 * [Crisis Communication](tools-and-templates/crisis-communication.md)
