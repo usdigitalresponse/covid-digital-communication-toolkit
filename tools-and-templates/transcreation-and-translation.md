@@ -6,7 +6,7 @@
 
 **Transcreation is creative translation.** It is the act of changing a text to make its meaning culturally responsive to your audience. By transcreating content, you are not simply transferring verbatim text from one language to another. Rather, you are considering slight nuances and cultural subtleties that could cause the meaning to be lost in the process of translation. 
 
-By allowing creative agency in the translating process, a professional transcreator can ensure that content across many languages retains its **true intent, tone and style** while allowing for variations in the copy to ensure understandability, resonance, and health communication/health literacy best practices are still in place.
+By allowing creative agency in the translating process, a professional transcreator can ensure that content across many languages retains its **true intent, tone, and style** while allowing for variations in the copy to ensure understandability, resonance, and health communication/health literacy best practices are still in place.
 
 > **An example:** The word “drug” is often used to describe medication in health communication in US English. However if you were to translate directly to Spanish the word would be “drogas” which would not be typically associated with medications in a Spanish-speaking community. So although using the term “medicamento” or “medicinas” may seem to raise the level of necessary reading comprehension, this term will be better understood and more accessible to the community you are trying to reach. This is the transcreation mindset.
 
@@ -34,5 +34,11 @@ By allowing creative agency in the translating process, a professional transcrea
 
 {% embed url="https://salud-america.org/juntos-podemos-detener-al-covid-19/" caption="Salud America! New Latino-focused bilingual campaign: Juntos, we can stop COVID-19!" %}
 
+### Sources
 
+Centers for Disease Control and Prevention. \(2016\). Everyday Words for Public Health Communication. [https://www.cdc.gov/other/pdf/EverydayWordsForPublicHealthCommunication.pdf](https://www.cdc.gov/other/pdf/EverydayWordsForPublicHealthCommunication.pdf)
+
+Health Literacy Tool Shed. \(2021, February\). [https://healthliteracy.bu.edu/](https://healthliteracy.bu.edu/) 
+
+Agency for Healthcare Research and Quality. \(2019, November\). Short Assessment of Health Literacy–Spanish and English \(SAHL-S&E\). Health Literacy Measurement Tools \(Revised\). [https://www.ahrq.gov/health-literacy/research/tools/index.html\#short](https://www.ahrq.gov/health-literacy/research/tools/index.html#short)
 
