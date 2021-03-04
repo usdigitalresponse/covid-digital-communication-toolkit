@@ -25,7 +25,7 @@
 * [Success Metrics](tools-and-templates/success-metrics.md)
 * [Website Template](tools-and-templates/website-template.md)
 * [Mobile Template](tools-and-templates/mobile-template.md)
-* [Printed and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
+* [Print and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
 * [Messaging Examples](tools-and-templates/messaging-examples.md)
 * [Crisis Communication](tools-and-templates/crisis-communication.md)
 * [Vaccine Hesitancy](tools-and-templates/vaccine-hesitancy.md)
@@ -34,7 +34,7 @@
 
 ## Key Population Considerations
 
-* [Elderly and the Aging Population](key-population-considerations/elderly-and-the-aging-population.md)
+* [Elderly and Aging Populations](key-population-considerations/elderly-and-the-aging-population.md)
 * [Black and Brown Communities](key-population-considerations/black-and-brown-communities.md)
 * [People with Disabilities](key-population-considerations/people-with-disabilities.md)
 * [Rural and Hard-to-Reach Communities](key-population-considerations/rural-and-hard-to-reach-communities.md)

@@ -1,8 +1,8 @@
-# Printed and Web Materials Templates
+# Print and Web Materials Templates
 
 Information surrounding COVID-19 changes and evolves constantly, which can be overwhelming to the lay public. This picture is further complicated by the **widespread misinformation** and disinformation about the virus, especially on social media. 
 
-Therefore, we listed resources from **trusted organizations** for print media such as flyers and downloadable social media infodemics to support your agency in public health digital outreach.
+The following resources for print media, such as flyers and downloadable social media infodemics, are from **trusted organizations** to support your agency in public health digital outreach.
 
 ### Health Literacy
 
@@ -40,7 +40,7 @@ Therefore, we listed resources from **trusted organizations** for print media su
 
 {% embed url="https://www.cdc.gov/socialmedia/tools/index.html" %}
 
-### Flyers and Printed Media
+### Flyers and Print Media
 
 {% embed url="https://www.nami.org/Support-Education/NAMI-HelpLine/COVID-19-Information-and-Resources" %}
 

@@ -23,9 +23,9 @@ When reading, users with limited literacy skills focus on the **center of the sc
 
 * **Top query searches from English speakers:** 
 
-  * "where can I get vaccinated in my county?"
-  * “when can I get the covid vaccine?”
-  * “when am i scheduled to get the covid vaccine massachusetts”
+  * "Where can I get vaccinated in my county?"
+  * “When can I get the covid vaccine?”
+  * “When am i scheduled to get the covid vaccine massachusetts”
   * “When do Americans get vaccines?”
   * “When will 1b group get vaccine”
 

@@ -10,15 +10,19 @@ By allowing creative agency in the translating process, a professional transcrea
 
 > **An example:** The word “drug” is often used to describe medication in health communication in US English. However if you were to translate directly to Spanish the word would be “drogas” which would not be typically associated with medications in a Spanish-speaking community. So although using the term “medicamento” or “medicinas” may seem to raise the level of necessary reading comprehension, this term will be better understood and more accessible to the community you are trying to reach. This is the transcreation mindset.
 
-* **Test content** with both a mix of bilingual & monolingual speakers to ensure that the new transcreated version satisfies the intent of the messaging
-* **Create content** that also captures the diversity of the United States and be creative with translation strategies - recognizing colloquial adaptations in the language \(hybrid bilingual conversational languages e.g., Taglish, Spanglish, etc\)
-* **Always check** the level of reading competence in both languages to ensure that content understandability is maintained through the transcreation process. Best practice for English and other language content is at most 5th**-**grade reading level and below
-* **If using localization services** to transcreate content, provide not just the source copy but also a creative brief \(for instance, the key considerations in this Toolkit could be a great place to start\).
-* **Create your content strategy** with multiple languages in mind, at the same time. This prevents English-based copy from being drafted in silos and failing to resonate with large bilingual communities across America. Drafting both versions simultaneously can help save time and money.
+**Here are some recommendations**
 
-**Tip: T**ranscreation also goes beyond words and into the look, feel, style, and imagery used within digital communication mediums. See [Key Considerations](../key-population-considerations/black-and-brown-communities.md) for tips on how to incorporate a Health Equity Framework in developing your communication style and design.
+* **Test content** with both a mix of bilingual and monolingual speakers to ensure that the new transcreated version satisfies the intent of the messaging.
+* **Create content** that also captures the diversity of the United States and be creative with translation strategies - recognizing colloquial adaptations in the language \(hybrid bilingual conversational languages e.g., Taglish, Spanglish, etc\).
+* **Always check the level of reading competence** in both languages to ensure that content understandability is maintained through the transcreation process. Best practice for English and other language content is at most 5th**-**grade reading level and below.
+* **Provide a creative brief.** If using localization services ****to transcreate content, provide not just the source copy but also a creative brief \(for instance, the key considerations in this Toolkit could be a great place to start\).
+* **Create your content strategy** with multiple languages in mind at the same time. This prevents English-based copy from being drafted in silos and failing to resonate with large bilingual communities across America. Drafting both versions simultaneously can help save time and money.
+
+**Tip:** Transcreation also goes beyond words and into the look, feel, style, and imagery used within digital communication mediums. See the Key Population Considerations section for tips on how to incorporate a Health Equity Framework in developing your communication style and design.
 
 ### COVID-19 resources for non-English speakers
+
+We recommend the following Covid-19 resources for non-English speakers.
 
 {% embed url="https://www.argotrans.com/covid-19/" caption="CDC’s general recommendations for COVID prevention translated into the most common languages in the U.S." %}
 
@@ -27,6 +31,8 @@ By allowing creative agency in the translating process, a professional transcrea
 {% embed url="https://www.nh.gov/covid19/resources-guidance/residents.htm" caption="NH government has resources in 8 languages, including American Sign Language \(ASL\)" %}
 
 ### COVID-19 resources for Spanish speakers <a id="covid-19-resources-for-spanish-speakers"></a>
+
+We recommend the following Covid-19 resources for Spanish speakers.
 
 {% embed url="https://www.apha.org/news-and-media/news-releases/apha-news-releases/2020/spanish-language-covid-guide" caption="APHA releases Spanish language COVID-19 guide" %}
 

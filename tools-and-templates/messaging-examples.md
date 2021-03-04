@@ -1,6 +1,6 @@
 # Messaging Examples
 
-Below are examples and creative guidance to build confidence and trust with BIPOC communities based on extensive qualitative and quantitative research from Ad Council, including cross-cultural focus groups, to uncover the most impactful messaging frameworks.
+Below are examples and creative guidance to build confidence and trust with BIPOC communities, based on extensive qualitative and quantitative research from the Ad Council, including cross-cultural focus groups, to uncover the most impactful messaging frameworks.
 
 ### Creative Brief for **Black** Audiences
 
