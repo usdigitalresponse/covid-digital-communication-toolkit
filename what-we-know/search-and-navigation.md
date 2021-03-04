@@ -11,13 +11,13 @@ When reading, users with limited literacy skills focus on the **center of the sc
 
 {% embed url="https://medium.com/u-s-digital-response/understanding-how-essential-workers-navigate-vaccine-information-online-b0ccd68daf7a" %}
 
-### **How do people currently navigate information around how they will get a vaccine and learn about their eligibility?**
+#### **How do people currently navigate information about how they will get a vaccine and learn about their eligibility?**
 
 * **Top three search takeaways:**
 
-  * Search 1: Multiple searches, vague information, PDF downloads, and no answer
-  * Search 2: State government and public health websites that highlight a prioritization framework, with no current details on next steps
-  * Search 3: Going straight to workplace resources or to your primary care provider
+  * **Search 1:** Multiple searches, vague information, PDF downloads, and no answer
+  * **Search 2:** State government and public health websites that highlight a prioritization framework, with no current details on next steps
+  * **Search 3:** Going straight to workplace resources or to your primary care provider
 
   \*\*\*\*
 

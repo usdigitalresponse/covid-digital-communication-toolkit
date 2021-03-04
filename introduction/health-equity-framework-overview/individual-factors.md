@@ -1,10 +1,10 @@
 # Individual Factors
 
 {% hint style="success" %}
-**Individual factors:** concern a person’s attitudes, skills, and behaviors are shaped by their personal experiences, including their relationships with others and access to opportunities, often driven by systems of power \(Peterson et al., 2020\). 
+**Individual factors:** concern a person’s attitudes, skills, and behaviors, which are shaped by their personal experiences, including their relationships with others and access to opportunities, often driven by systems of power \(Peterson et al., 2020\). 
 {% endhint %}
 
-**Social determinants of health** such as poverty, unequal access to health care, lack of education, stigma, and racism are underlying, shape these individual factors and contribute to health inequities. Health childhood development of social and emotional skills are associated with better mental and physical health outcomes, life satisfaction, and life expectancy in adulthood \(Goodman et al., 2015\). 
+**Social determinants of health**, such as poverty, unequal access to health care, lack of education, stigma, and racism are underlying, shape individual factors and contribute to health inequities. Healthly childhood development of social and emotional skills are associated with better mental and physical health outcomes, life satisfaction, and life expectancy in adulthood \(Goodman et al., 2015\). 
 
 Below is an example from the State of Hawaii that successfully demonstrates content on **mental health support** on one of their vaccine webpages:
 

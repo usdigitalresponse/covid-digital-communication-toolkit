@@ -2,7 +2,7 @@
 
 ### **From Communication Teams**
 
-Collaborating with USDR’s local and state government on designing vaccine webpages, we have learned that our partners are inundated with a **high volume of calls and emails** to their call centers. The most frequently asked questions from their residents include, but not limited to: _Where can I get vaccinated?_ and _When am I eligible to get the COVID-19 vaccine?_ 
+While collaborating with local and state governments to design vaccine webpages, we have learned that our partners are inundated with a **high volume of calls and emails** to their call centers. The most frequently asked questions from their residents include, but are not limited to: _Where can I get vaccinated?_ and _When am I eligible to get the COVID-19 vaccine?_ 
 
 > “We need help with an overwhelming amount of phone calls and public health emails.”
 >
@@ -16,7 +16,7 @@ This toolkit aims to **close the gap** that exists between writers and developer
 
 ### From Residents
 
-In a short qualitative research study with a sample of six residents with varying backgrounds, demographics, and vaccination eligibility phases, we learned that on average residents **do not know** where to get vaccinated and when they will be eligible for the vaccine \(Nguyen, 2020\). 
+In a short qualitative research study with a sample of six residents with varying backgrounds, demographics, and vaccination eligibility phases, we learned that, on average, residents **do not know** where to get vaccinated and when they will be eligible for the vaccine \(Nguyen, 2020\). 
 
 > When can I get the covid vaccine?
 >
@@ -26,9 +26,9 @@ In a short qualitative research study with a sample of six residents with varyin
 >
 > “When will 1b group get vaccine”
 
-Furthermore, anecdotal resident stories from our partners and web analytics confirm how **residents are frustrated** and are experiencing information navigation challenges. Elderly residents call first for vaccine appointment scheduling due to poor information architecture on county and state websites. 
+In addition, anecdotal resident stories from our partners and web analytics confirm how **residents are frustrated** and are experiencing information navigation challenges. Elderly residents call first for vaccine appointment scheduling due to poor information architecture on county and state websites. 
 
-**Bilingual residents** receive support from their children as translated content does not accommodate for their dialects and health literacy levels. This toolkit reduces these literacy inequities and improves the user experience of residents navigating for COVID-19 information on government digital tools.
+**Bilingual residents** receive support from their children, as translated content does not accommodate for their dialects and health literacy levels. This toolkit reduces these literacy inequities and improves the user experience of residents navigating for COVID-19 information on government digital tools.
 
 ### Sources
 

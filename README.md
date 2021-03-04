@@ -1,11 +1,13 @@
+---
+description: Step-by-step health equity recommendations for COVID-19 communication
+---
+
 # Covid-19 Digital Communication Toolkit: A Health Equity Lens
 
-### This toolkit offers detailed, step-by-step guidance to help health communicators, content developers, educators, and health promotion leaders put health equity recommendations into COVID-19 communication action.
-
-The information in this toolkit centralizes themes we have learned and trends we have analyzed through evidence-based research. They are as follows:
+This toolkit offers detailed, step-by-step guidance to help health communicators, content developers, educators, and health promotion leaders put health equity recommendations into COVID-19 communication action. The toolkit is a collection of information we at U.S. Digital Response have learned and trends analyzed through evidence-based research. The sources used include:
 
 1. Working with multiple local and state government agencies, including communication specialists and content managers, 
-2. Creating content and UX recommendations across devices and browsers to impact vaccination information-seeking behavior, and 
+2. Creating content and user experience \(UX\) recommendations across devices and browsers to impact vaccination information-seeking behavior, and 
 3. Our collective decades of experience in health equity, communication, and literacy directly educating and reaching communities.
 
 This is a living document. We will continuously update it as we learn more from government and public health officials, communication teams, and health equity task forces. 
@@ -22,5 +24,5 @@ This toolkit is for government communications and media development teams, trust
 2. \*\*\*\*[**Health equity framework:** ](introduction/health-equity-framework-overview/relationships-and-networks.md)The lens this toolkit takes in health communication literacy to reach all communities including those marginalized in access to COVID-19 vaccines.
 3. \*\*\*\*[**What we know:** ](what-we-know/resident-personas.md)General facts and trends from residents as personas in various phases in the vaccination rollout in the US.
 4. \*\*\*\*[**Tools and templates:** ](tools-and-templates/checklists.md)Actionable steps and checklists to evaluate and make design and content changes to COVID-19 vaccine websites and mobile apps.
-5. \*\*\*\*[**Key population considerations**](key-population-considerations/elderly-and-the-aging-population.md)**:** Evidence-based tools and approaches to increase health equity for black and brown communities, elderly, people with disabilities, rural, and hard-to-reach communities.
+5. \*\*\*\*[**Key population considerations**](key-population-considerations/elderly-and-the-aging-population.md)**:** Evidence-based tools and approaches to increase health equity for black and brown communities, the elderly, people with disabilities, and rural and hard-to-reach communities.
 
