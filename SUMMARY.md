@@ -26,6 +26,7 @@
 * [Website Template](tools-and-templates/website-template.md)
 * [Mobile Template](tools-and-templates/mobile-template.md)
 * [Print and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
+* [Stock Photos](tools-and-templates/stock-photos.md)
 * [Messaging Examples](tools-and-templates/messaging-examples.md)
 * [Crisis Communication](tools-and-templates/crisis-communication.md)
 * [Vaccine Hesitancy](tools-and-templates/vaccine-hesitancy.md)
