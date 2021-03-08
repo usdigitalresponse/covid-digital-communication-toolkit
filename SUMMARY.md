@@ -29,9 +29,6 @@
 * [Stock Photos](tools-and-templates/stock-photos.md)
 * [Messaging Examples](tools-and-templates/messaging-examples.md)
 * [Crisis Communication](tools-and-templates/crisis-communication.md)
-* [Vaccine Hesitancy](tools-and-templates/vaccine-hesitancy.md)
-* [Transcreation and Translation](tools-and-templates/transcreation-and-translation.md)
-* [Data Collection, Visualization, and Reporting](tools-and-templates/data-collection-visualization-and-reporting.md)
 
 ## Key Population Considerations
 
@@ -39,6 +36,12 @@
 * [Black and Brown Communities](key-population-considerations/black-and-brown-communities.md)
 * [People with Disabilities](key-population-considerations/people-with-disabilities.md)
 * [Rural and Hard-to-Reach Communities](key-population-considerations/rural-and-hard-to-reach-communities.md)
+
+## Special Topics
+
+* [Data Collection, Visualization, and Reporting](special-topics/data-collection-visualization-and-reporting.md)
+* [Transcreation and Translation](special-topics/transcreation-and-translation.md)
+* [Vaccine Hesitancy](special-topics/vaccine-hesitancy.md)
 
 ---
 
