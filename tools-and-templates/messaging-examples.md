@@ -18,6 +18,10 @@ Below are examples and creative guidance to build confidence and trust with BIPO
 
 {% file src="../.gitbook/assets/creative-brief\_general-audience.pdf" caption="General audience messaging examples" %}
 
+### **NLGJA** Stylebook for LGBTQ Language
+
+{% embed url="https://www.nlgja.org/stylebook/" %}
+
 ### Source
 
 ADC Council. \(2021, February\). Messaging that Resonates. Retrieved from [https://adcouncilvaccinetoolkit.org/messaging](https://adcouncilvaccinetoolkit.org/messaging)
