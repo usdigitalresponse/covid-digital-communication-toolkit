@@ -44,5 +44,5 @@ The following resources for print media, such as flyers and downloadable social 
 
 {% embed url="https://www.nami.org/Support-Education/NAMI-HelpLine/COVID-19-Information-and-Resources" %}
 
-### **Edutainment**
+\*\*\*\*
 
