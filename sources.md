@@ -131,3 +131,9 @@ Health Literacy Tool Shed. \(2021, February\). [https://healthliteracy.bu.edu/](
 
 Agency for Healthcare Research and Quality. \(2019, November\). Short Assessment of Health Literacy–Spanish and English \(SAHL-S&E\). Health Literacy Measurement Tools \(Revised\). [https://www.ahrq.gov/health-literacy/research/tools/index.html\#short](https://www.ahrq.gov/health-literacy/research/tools/index.html#short)
 
+### Data Collection, Visualization, and Reporting
+
+AMA. \(2021, January\). The role of data collection in the COVID-19 pandemic. Retrieved from [https://www.ama-assn.org/delivering-care/health-equity/role-data-collection-covid-19-pandemic](https://www.ama-assn.org/delivering-care/health-equity/role-data-collection-covid-19-pandemic)
+
+Bernard, S., & Zylla, E. \(2020, November 6\). Advances in States’ Reporting of COVID-19 Health Equity Data. Retrieved from [https://www.shvs.org/advances-in-states-reporting-of-covid-19-health-equity-data/](https://www.shvs.org/advances-in-states-reporting-of-covid-19-health-equity-data/)
+
