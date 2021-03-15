@@ -18,6 +18,7 @@
 * [Mental Model](what-we-know/mental-model.md)
 * [Search and Navigation](what-we-know/search-and-navigation.md)
 * [Reading and Cognitive Challenges](what-we-know/reading-and-cognitive-challenges.md)
+* [Case Studies](what-we-know/case-studies.md)
 
 ## Tools and Templates
 
