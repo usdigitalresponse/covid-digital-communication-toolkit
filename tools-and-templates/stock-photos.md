@@ -6,7 +6,7 @@ Below are culturally diverse stock photos that you can use for your marketing an
 
 {% embed url="https://www.istockphoto.com/photos/navajo-nation-covid" %}
 
-### Disabled Individuals
+### Individuals with Disabilities
 
 {% embed url="https://disabilityin.org/resource/disability-stock-photography/" %}
 
@@ -18,5 +18,7 @@ Below are culturally diverse stock photos that you can use for your marketing an
 
 {% embed url="https://www.lyricalhost.com/blog/20-websites-to-download-culturally-diverse-stock-photos/" %}
 
+### CDC Image Library
 
+{% embed url="https://phil.cdc.gov/" %}
 
