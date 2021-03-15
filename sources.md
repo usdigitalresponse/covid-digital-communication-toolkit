@@ -10,8 +10,6 @@ A. P., V. C., & D. Y. \(2020, August 19\). The Health Equity Framework: A Scienc
 
 ETR. \(2020, August 19\). ETR's Health Equity Framework. Retrieved February 14, 2021, from [https://www.etr.org/about-us/health-equity-framework/](https://www.etr.org/about-us/health-equity-framework/) 
 
-#### **Relationships and Networks**
-
 Peterson, A., Charles, V., Yeung, D., & Coyle, K. \(2020\). The Health Equity Framework: A Science- and Justice-Based Model for Public Health Researchers and Practitioners. Health Promotion Practice, 152483992095073. doi:10.1177/1524839920950730
 
 Holt-Lunstad, J., Smith, T. B., & Layton, J. B. \(2010, July 27\). Social Relationships and Mortality Risk: A Meta-analytic Review. Retrieved February 16, 2021, from [https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316)
