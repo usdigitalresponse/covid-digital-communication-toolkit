@@ -10,7 +10,3 @@ The CERC program provides training, tools, and resources to help health communic
 
 {% embed url="https://emergency.cdc.gov/cerc/cerccorner/index.asp" %}
 
-### Sources
-
-CDC. \(2018, January 23\). Crisis & Emergency Risk Communication \(CERC\)\|CDC. Retrieved from [https://emergency.cdc.gov/cerc/index.asp](https://emergency.cdc.gov/cerc/index.asp)
-

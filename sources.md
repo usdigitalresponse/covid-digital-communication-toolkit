@@ -108,3 +108,18 @@ Centers for Disease Control. \(2021, January 20\). Rural Communities. COVID-19. 
 
 Kirzinger, A., Muñana, C., & Brodie, M. \(2021, January 7\). Vaccine Hesitancy in Rural America. Kaiser Family Foundation. [https://www.kff.org/coronavirus-covid-19/poll-finding/vaccine-hesitancy-in-rural-america/](https://www.kff.org/coronavirus-covid-19/poll-finding/vaccine-hesitancy-in-rural-america/) 
 
+### Crisis Communication
+
+CDC. \(2018, January 23\). Crisis & Emergency Risk Communication \(CERC\)\|CDC. Retrieved from [https://emergency.cdc.gov/cerc/index.asp](https://emergency.cdc.gov/cerc/index.asp)
+
+### **Vaccine Hesitancy**
+
+MacDonald, N. E., & SAGE Working Group on Vaccine Hesitancy. \(2015\). Vaccine hesitancy: Definition, scope and determinants. Vaccine, 33\(34\), 4161–4164. [https://doi.org/10.1016/j.vaccine.2015.04.036](https://doi.org/10.1016/j.vaccine.2015.04.036)
+
+Rosselli, R., Martini, M., & Bragazzi, N. L. \(2016\). The old and the new: vaccine hesitancy in the era of the Web 2.0. Challenges and opportunities. Journal of Preventive Medicine and Hygiene, 57\(1\), E47-50.
+
+SAGE Working Group. \(2014\). Report of the SAGE Working Group on Vaccine Hesitancy. World Health Organization. [https://www.who.int/immunization/sage/meetings/2014/october/SAGE\_working\_group\_revised\_report\_vaccine\_hesitancy.pdf?ua=1](https://www.who.int/immunization/sage/meetings/2014/october/SAGE_working_group_revised_report_vaccine_hesitancy.pdf?ua=1) 
+
+Piltch-Loeb, R., & DiClemente, R. \(2020\). The Vaccine Uptake Continuum: Applying Social Science Theory to Shift Vaccine Hesitancy. Vaccines, 8\(1\), 76. [https://doi.org/10.3390/vaccines8010076](https://doi.org/10.3390/vaccines8010076)   
+Thomson, A., Robinson, K., & Vallée-Tourangeaub, G. \(2016\). The 5As: A practical taxonomy for the determinants of vaccine uptake. Vaccine, 34\(8\), 1018–1024. https://doi.org/10.1016/j.vaccine.2015.11.065
+
