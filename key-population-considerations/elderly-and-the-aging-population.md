@@ -32,17 +32,3 @@
 
 {% embed url="https://nnlm.gov/mar/guides/making-your-website-senior-friendly?fbclid=IwAR3AxiJsQCzLDx6EmzTiuGqQP0qxhnObQPAQscbKWfJ8ArehBniuEzzHz2k" caption="NNLM\'s Making Your Website Senior-Friendly" %}
 
-### **Sources**
-
-National Center for Immunization and Respiratory Diseases. \(2018, January 25\). Shingles Vaccination. Vaccines and Preventable Diseases. [https://www.cdc.gov/vaccines/vpd/shingles/public/shingrix/index.html](https://www.cdc.gov/vaccines/vpd/shingles/public/shingrix/index.html)
-
-NCAPPS. \(2021, January\). Health Care Person-Centered Profile. Retrieved from [https://ncapps.acl.gov/covid-19-resources.html](https://ncapps.acl.gov/covid-19-resources.html)
-
-Nelson Kakulla, B. \(2020, January\). 2020 Tech Trends of the 50+. AARP Research. [https://www.aarp.org/research/topics/technology/info-2019/2020-technology-trends-older-americans.html](https://www.aarp.org/research/topics/technology/info-2019/2020-technology-trends-older-americans.html) 
-
-Reed, N. S., Ferrante, L. E., & Oh, E. S. \(2020\). Addressing Hearing Loss to Improve Communication During the COVID-19 Pandemic. Journal of the American Geriatrics Society, 68\(9\), 1924–1926. [https://doi.org/https://doi.org/10.1111/jgs.16674](https://doi.org/https://doi.org/10.1111/jgs.16674)
-
-International Council on Active Aging. \(2011\). ICAA’s Guidelines for effective communication with older adults. [http://www.changingthewayweage.com/Media-and-Marketers-support/guidelines.htm](http://www.changingthewayweage.com/Media-and-Marketers-support/guidelines.htm) 
-
-Wooten, K. G., Wortley, P. M., Singleton, J. A., & Euler, G. L. \(2012\). Perceptions matter: Beliefs about influenza vaccine and vaccination behavior among elderly white, black and Hispanic Americans. Vaccine, 30\(48\), 6927–6934. [https://doi.org/10.1016/j.vaccine.2012.08.036](https://doi.org/10.1016/j.vaccine.2012.08.036)
-

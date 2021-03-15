@@ -50,3 +50,55 @@ Rosenwald, M. \(2020, December 26\). 'A needle makes my blood run cold': Will th
 
 ADC Council. \(2021, February\). Messaging that Resonates. Retrieved from [https://adcouncilvaccinetoolkit.org/messaging](https://adcouncilvaccinetoolkit.org/messaging)
 
+### **Elderly and Aging Population**
+
+National Center for Immunization and Respiratory Diseases. \(2018, January 25\). Shingles Vaccination. Vaccines and Preventable Diseases. [https://www.cdc.gov/vaccines/vpd/shingles/public/shingrix/index.html](https://www.cdc.gov/vaccines/vpd/shingles/public/shingrix/index.html)
+
+NCAPPS. \(2021, January\). Health Care Person-Centered Profile. Retrieved from [https://ncapps.acl.gov/covid-19-resources.html](https://ncapps.acl.gov/covid-19-resources.html)
+
+Nelson Kakulla, B. \(2020, January\). 2020 Tech Trends of the 50+. AARP Research. [https://www.aarp.org/research/topics/technology/info-2019/2020-technology-trends-older-americans.html](https://www.aarp.org/research/topics/technology/info-2019/2020-technology-trends-older-americans.html) 
+
+Reed, N. S., Ferrante, L. E., & Oh, E. S. \(2020\). Addressing Hearing Loss to Improve Communication During the COVID-19 Pandemic. Journal of the American Geriatrics Society, 68\(9\), 1924–1926. [https://doi.org/https://doi.org/10.1111/jgs.16674](https://doi.org/https://doi.org/10.1111/jgs.16674)
+
+International Council on Active Aging. \(2011\). ICAA’s Guidelines for effective communication with older adults. [http://www.changingthewayweage.com/Media-and-Marketers-support/guidelines.htm](http://www.changingthewayweage.com/Media-and-Marketers-support/guidelines.htm) 
+
+Wooten, K. G., Wortley, P. M., Singleton, J. A., & Euler, G. L. \(2012\). Perceptions matter: Beliefs about influenza vaccine and vaccination behavior among elderly white, black and Hispanic Americans. Vaccine, 30\(48\), 6927–6934. [https://doi.org/10.1016/j.vaccine.2012.08.036](https://doi.org/10.1016/j.vaccine.2012.08.036)
+
+### **Black and Brown Communities**
+
+Berkeley Media Studies Group. \(2020, December 8\). Communicating about the COVID-19 vaccines: Guidance and sample messages for public health practitioners. Berkeley Media Studies Group. [http://www.bmsg.org/resources/publications/communicating-covid-19-vaccines-guidance-and-sample-messages-for-public-health-practitioners/](http://www.bmsg.org/resources/publications/communicating-covid-19-vaccines-guidance-and-sample-messages-for-public-health-practitioners/) 
+
+Despres, C. \(2021, February 17\). Bilingual Comic Strip Helps Latinos See Benefits of COVID-19 Vaccine. Salud America. [https://salud-america.org/bilingual-comic-strips-covid-19-vaccines/](https://salud-america.org/bilingual-comic-strips-covid-19-vaccines/) 
+
+For U.S. Hispanics, speaking Spanish is the most important part of Hispanic identity across immigrant generations. \(2020, September 23\). Pew Research Center. [https://www.pewresearch.org/wp-content/uploads/2020/09/FT\_20.09.21\_HispanicIdentity\_3b.png](https://www.pewresearch.org/wp-content/uploads/2020/09/FT_20.09.21_HispanicIdentity_3b.png)
+
+Gonzalez-Barrera, A. \(2020, September 24\). The ways Hispanics describe their identity vary across immigrant generations. Pew Research Center. [https://www.pewresearch.org/fact-tank/2020/09/24/the-ways-hispanics-describe-their-identity-vary-across-immigrant-generations/](https://www.pewresearch.org/fact-tank/2020/09/24/the-ways-hispanics-describe-their-identity-vary-across-immigrant-generations/)
+
+Hamel, L., Kirzinger, A., Lopes, L., Kearney, A., Sparks, G., & Brodie, M. \(2021, January 27\). KFF COVID-19 Vaccine Monitor: January 2021 - Vaccine Hesitancy. Kaiser Family Foundation. [https://www.kff.org/report-section/kff-covid-19-vaccine-monitor-january-2021-vaccine-hesitancy/](https://www.kff.org/report-section/kff-covid-19-vaccine-monitor-january-2021-vaccine-hesitancy/) 
+
+Hudnut-Beumler, J., Po’e, E., & Barkin, S. \(2016\). The Use of Social Media for Health Promotion in Hispanic Populations: A Scoping Systematic Review. JMIR Public Health and Surveillance, 2\(2\), e32. [https://doi.org/10.2196/publichealth.5579](https://doi.org/10.2196/publichealth.5579) 
+
+Hugo Lopez, M., Gonzalez-Barrera, A., & López, G. \(2017, December 20\). Latino Identity Declines Across Generations as Immigrant Ties Weaken. Pew Research Center’s Hispanic Trends Project. [https://www.pewresearch.org/hispanic/2017/12/20/hispanic-identity-fades-across-generations-as-immigrant-connections-fall-away/](https://www.pewresearch.org/hispanic/2017/12/20/hispanic-identity-fades-across-generations-as-immigrant-connections-fall-away/)
+
+Kearney, A., Lopes, L., & Brodie, M. \(2021, January 14\). Vaccine Hesitancy Among Hispanic Adults. Kaiser Family Foundation. [https://www.kff.org/coronavirus-covid-19/poll-finding/vaccine-hesitancy-among-hispanic-adults/](https://www.kff.org/coronavirus-covid-19/poll-finding/vaccine-hesitancy-among-hispanic-adults/) 
+
+McKenna, M. \(2020, November 11\). Winning Trust for a Vaccine Means Confronting Medical Racism. Wired. [https://www.wired.com/story/winning-trust-for-a-vaccine-means-confronting-medical-racism/](https://www.wired.com/story/winning-trust-for-a-vaccine-means-confronting-medical-racism/) 
+
+Menasce Horowitz, J., Brown, A., & Cox, K. \(2019, April 9\). The role of race and ethnicity in Americans’ lives. Pew Research Center’s Social & Demographic Trends Project. [https://www.pewresearch.org/social-trends/2019/04/09/the-role-of-race-and-ethnicity-in-americans-personal-lives/](https://www.pewresearch.org/social-trends/2019/04/09/the-role-of-race-and-ethnicity-in-americans-personal-lives/) 
+
+Moran, M. B., Chatterjee, J. S., Frank, L. B., Murphy, S. T., Zhao, N., Chen, N., & Ball-Rokeach, S. \(2017\). Individual, Cultural and Structural Predictors of Vaccine Safety Confidence and Influenza Vaccination Among Hispanic Female Subgroups. Journal of Immigrant and Minority Health, 19\(4\), 790–800. [https://doi.org/10.1007/s10903-016-0428-9](https://doi.org/10.1007/s10903-016-0428-9) 
+
+Muvuka, B., Combs, R. M., Ayangeakaa, S. D., Ali, N. M., Wendel, M. L., & Jackson, T. \(2020\). Health Literacy in African-American Communities: Barriers and Strategies. HLRP: Health Literacy Research and Practice, 4\(3\), e138–e143. https://doi.org/10.3928/24748307-20200617-01
+
+Nielson. \(2021\). Latinx Community. Diverse Intelligence Series. [https://www.nielsen.com/us/en/about-us/community/latinx](https://www.nielsen.com/us/en/about-us/community/latinx) 
+
+Schmid, P., Rauber, D., Betsch, C., Lidolt, G., & Denker, M.-L. \(2017\). Barriers of Influenza Vaccination Intention and Behavior – A Systematic Review of Influenza Vaccine Hesitancy, 2005 – 2016. PLOS ONE, 12\(1\), e0170550. [https://doi.org/10.1371/journal.pone.0170550](https://doi.org/10.1371/journal.pone.0170550) 
+
+The National Museum of African American History and Culture. \(n.d.\). I Am A Person Committed To Equity. Talking About Race. Retrieved February 18, 2021, from [https://nmaahc.si.edu/learn/talking-about-race/audiences/committed-equity](https://nmaahc.si.edu/learn/talking-about-race/audiences/committed-equity) 
+
+The Permanente Medical Group. \(n.d.\). Protecting Yourself and Your Family during COVID 19. Retrieved February 15, 2021, from [https://mydoctor.kaiserpermanente.org/ncal/video/protecting-yourself-and-your-family-from-covid-19-1722442](https://mydoctor.kaiserpermanente.org/ncal/video/protecting-yourself-and-your-family-from-covid-19-1722442)  
+
+The Permanente Medical Group. \(n.d.\). Staying Safe from COVID-19. My Doctor Online. Retrieved February 18, 2021, from https://mydoctor.kaiserpermanente.org/ncal/video/staying-safe-from-covid-19-1701986
+
+Vaccine Central \| National Resource Center for Refugees, Immigrants, and Migrants \(NRC-RIM\). \(n.d.\). Retrieved February 18, 2021, from https://nrcrim.umn.edu/vaccines/vaccine-central
+
