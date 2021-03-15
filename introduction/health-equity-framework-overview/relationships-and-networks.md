@@ -1,10 +1,10 @@
 # Relationships and Networks
 
 {% hint style="danger" %}
-**Relationships and Networks:** refer to the connections and support structures made up of family \(biological, adopted, or chosen\), friends, romantic partners, and people within cultural communities, neighborhoods, schools, and workplaces \(Peterson et al., 2020\).
+**Relationships and Networks:** refer to the connections and support structures made up of family \(biological, adopted, or chosen\), friends, romantic partners, and people within cultural communities, neighborhoods, schools, and workplaces.
 {% endhint %}
 
-Maintaining social relationships is important for maintaining health. Relationships may promote health equity with **protective factors** **against health-harming behaviors** \(Holt-Lunstad et al., 2010\), or intensify poorer health outcomes by enabling health-harming behaviors \(Patton et al., 2016\). 
+Maintaining social relationships is important for maintaining health. Relationships may promote health equity with **protective factors** **against health-harming behaviors**, or intensify poorer health outcomes by enabling health-harming behaviors.
 
 The USDR Digital Communication Toolkit reflects best practices to integrate communities and networks in content development for equitable COVID-19 vaccination distribution. The example below from the State of Pennsylvania represents a diverse population of potential website visitors, from parents to school representatives, with **direct navigation to networks**. 
 
