@@ -36,7 +36,7 @@ Identify **key influencer\(s\)** and represent them ****in your content or as pa
 
 ![The Permanente Medical Group: Fontonovelas are bilingual transcreated content available that resonate within the Latino Community ](https://lh3.googleusercontent.com/r1nxcGoSg08kxvnfhqUIc3M3_fPMKVKYxuHZNLMgBvaVO7-3BkbFiJxWt0JBsFUiV06bSwr5OLEWtG5UVWKN3Wa8aTYEIoDVeexwuISlzPMTzHVRUs8MF11cpRY6ZSHbx7500uOs)
 
-* **Utilize media outlets that resonate within communities.** 11% of surveyed Latinos in a recent study by Nielson reported social media as their trusted source of information on coronavirus as compared to 10% for government websites \(Nielson, 2021\). 
+* **Use media outlets that resonate within communities.** 11% of surveyed Latinos in a recent study by Nielson reported social media as their trusted source of information on coronavirus as compared to 10% for government websites \(Nielson, 2021\). 
 * **Ask community culture brokers to help spread the word and serve as a mediator.** Build relationships with trusted messengers from diverse organizations and community groups. Find individuals in the local community that have been vaccinated to build trust and to widen the net of those who know someone who has had successful experiences with vaccination \(use of video, written, media testimonials\).
   * Work closely with the IHS on outreach communication to the Tribal Nations.
   * Identify local channels for community health \(e.g., Promotoras\) and ask for their participation in a video testimonial, news segment, social media campaign, etc.

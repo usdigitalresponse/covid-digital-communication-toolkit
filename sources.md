@@ -102,3 +102,9 @@ The Permanente Medical Group. \(n.d.\). Staying Safe from COVID-19. My Doctor On
 
 Vaccine Central \| National Resource Center for Refugees, Immigrants, and Migrants \(NRC-RIM\). \(n.d.\). Retrieved February 18, 2021, from https://nrcrim.umn.edu/vaccines/vaccine-central
 
+### **Rural and Hard-to-Reach Communities**
+
+Centers for Disease Control. \(2021, January 20\). Rural Communities. COVID-19. [https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/other-at-risk-populations/rural-communities.html](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/other-at-risk-populations/rural-communities.html) 
+
+Kirzinger, A., Muñana, C., & Brodie, M. \(2021, January 7\). Vaccine Hesitancy in Rural America. Kaiser Family Foundation. [https://www.kff.org/coronavirus-covid-19/poll-finding/vaccine-hesitancy-in-rural-america/](https://www.kff.org/coronavirus-covid-19/poll-finding/vaccine-hesitancy-in-rural-america/) 
+

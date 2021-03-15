@@ -1,7 +1,7 @@
 # Rural and Hard-to-Reach Communities
 
 {% hint style="warning" %}
-**Systems of Power:** The obstacles faced by residents and healthcare providers in rural areas are vastly different than those in urban areas. There are many factors that create healthcare inequities and impede rural residents from achieving the highest care and health. These include economic conditions, accesss, cultural and social differences, educational shortcomings, lack of recognition by legislators, and the sheer isolation of living in remote areas.
+**Systems of Power:** The obstacles faced by residents and healthcare providers in rural areas are vastly different than those in urban areas. There are many factors that create healthcare inequities and impede rural residents from achieving the highest care and health. These include economic conditions, access, cultural and social differences, educational shortcomings, lack of recognition by legislators, and the sheer isolation of living in remote areas.
 {% endhint %}
 
 **Here are some guidelines for communicating with rural and hard-to-reach communities**
@@ -22,10 +22,4 @@
 * **Dispell misinformation and reframe the narrative.** Avoid the urge to “mythbust” - in a 10-second skim, it’s just as easy for a reader to not see the word “Myth” as it is for them to read the statement you’re trying to debunk.
 
 ![Roanoke Chowan Community Health Center in rural Ahoskie, North Carolina](https://lh3.googleusercontent.com/ji1OCqSmeIAtHuVti81lWJ1eBnGUzsIqwxn8X-Ygwhwd881gdVaUDMFGpv7CUsrJbRwKz4UIGB1YL1oANkW1HYaFMpTbmEab0pBP125y730I-uTW3YKv_u44YRkfXhTkZ5nd4HkO)
-
-### **Sources**
-
-Centers for Disease Control. \(2021, January 20\). Rural Communities. COVID-19. [https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/other-at-risk-populations/rural-communities.html](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/other-at-risk-populations/rural-communities.html) 
-
-Kirzinger, A., Muñana, C., & Brodie, M. \(2021, January 7\). Vaccine Hesitancy in Rural America. Kaiser Family Foundation. [https://www.kff.org/coronavirus-covid-19/poll-finding/vaccine-hesitancy-in-rural-america/](https://www.kff.org/coronavirus-covid-19/poll-finding/vaccine-hesitancy-in-rural-america/) 
 
