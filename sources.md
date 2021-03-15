@@ -20,3 +20,5 @@ Peterson, A., Charles, V., Yeung, D., & Coyle, K. \(2020\). The Health Equity Fr
 
 State of Pennsylvania. COVID Vaccines. Retrieved from [https://www.health.pa.gov/topics/disease/coronavirus/Vaccine/Pages/Vaccine.aspx](https://www.health.pa.gov/topics/disease/coronavirus/Vaccine/Pages/Vaccine.aspx)
 
+State of Hawaii. \(2021, February 13\). COVID-19 Vaccine. Retrieved from [https://hawaiicovid19.com/vaccine/](https://hawaiicovid19.com/vaccine/)
+
