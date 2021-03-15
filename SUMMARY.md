@@ -46,5 +46,6 @@
 ---
 
 * [Contact Us](contact-us.md)
+* [Sources](sources.md)
 * [Acknowledgments](acknowledgments.md)
 
