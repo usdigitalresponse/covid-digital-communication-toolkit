@@ -4,7 +4,7 @@ description: Step-by-step health equity recommendations for COVID-19 communicati
 
 # Covid-19 Digital Communication Toolkit: A Health Equity Lens
 
-This toolkit offers detailed, step-by-step guidance to help health communicators, content developers, educators, and health promotion leaders put health equity recommendations into COVID-19 communication action. The toolkit is a collection of information we at U.S. Digital Response have learned and trends analyzed through evidence-based research. The sources used include:
+This toolkit offers detailed, step-by-step guidance to help health communicators, content developers, educators, and health promotion leaders put health equity recommendations into COVID-19 communication action. The toolkit is a collection of information we at U.S. Digital Response have learned and trends analyzed through evidence-based research such as:
 
 1. Working with multiple local and state government agencies, including communication specialists and content managers, 
 2. Creating content and user experience \(UX\) recommendations across devices and browsers to impact vaccination information-seeking behavior, and 
@@ -25,4 +25,5 @@ This toolkit is for government communications and media development teams, trust
 3. \*\*\*\*[**What we know:** ](what-we-know/resident-personas.md)General facts and trends from residents as personas in various phases in the vaccination rollout in the US.
 4. \*\*\*\*[**Tools and templates:** ](tools-and-templates/checklists.md)Actionable steps and checklists to evaluate and make design and content changes to COVID-19 vaccine websites and mobile apps.
 5. \*\*\*\*[**Key population considerations**](key-population-considerations/elderly-and-the-aging-population.md)**:** Evidence-based tools and approaches to increase health equity for black and brown communities, the elderly, people with disabilities, and rural and hard-to-reach communities.
+6. \*\*\*\*[**Special Topics:** ](special-topics/data-collection-visualization-and-reporting.md)Insights on popular topics such as vaccine resistance and hesitancy, multilingual translation for diverse residence, and data reporting.
 
