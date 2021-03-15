@@ -16,7 +16,7 @@ This toolkit aims to **close the gap** that exists between writers and developer
 
 ### From Residents
 
-In a short qualitative research study with a sample of six residents with varying backgrounds, demographics, and vaccination eligibility phases, we learned that, on average, residents **do not know** where to get vaccinated and when they will be eligible for the vaccine \(Nguyen, 2020\). 
+In a short qualitative research study with a sample of six residents with varying backgrounds, demographics, and vaccination eligibility phases, we learned that, on average, residents **do not know** where to get vaccinated and when they will be eligible for the vaccine. 
 
 > When can I get the covid vaccine?
 >
