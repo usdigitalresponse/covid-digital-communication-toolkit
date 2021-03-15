@@ -4,7 +4,7 @@ We have conducted remote observations and contextual inquiry as part of a qualit
 
 ### **How do people currently think about getting a vaccine?**
 
-**What do you know about getting vaccines?** Users knowledge level varied about receiving the vaccine from not much, 2 doses, rolling out now, to some level of phase prioritization. People, in general, are not sure _when_ and _where_ to get vaccinated for Covid-19 especially for the “wait-and-see” groups.
+**What do you know about getting vaccines?** Users' knowledge level varied about receiving the vaccine from not much, 2 doses, rolling out now, to some level of phase prioritization. People, in general, are not sure _when_ and _where_ to get vaccinated for Covid-19 especially for the “wait-and-see” groups.
 
 **When will you be able to get a vaccine?** We also learned that timing is random based on a resident's social network, with the highest frequency mentioned in March, June, and the Fall.
 
@@ -22,10 +22,5 @@ We have conducted remote observations and contextual inquiry as part of a qualit
 * “Ensure we have enough vaccines for everybody and work on distribution.”
 * “Make sure it’s available regardless of money and geographic area.”
 * “Strong federal guidelines, procedures and protocols.”
-* “Coordinating with state, local governments on prioritization and delivery.”
-
-### **Sources**
-
-Nguyen, S. \(2020, December 31\). 3-Day Research Sprint: How residents look for Covid-19 vaccine information \[Policy Memo\]. Los Angeles: US Digital Response. Retrieved February 14, 2021, from [https://bit.ly/3tYdmzT](https://bit.ly/3tYdmzT)   
-
+* “Coordinating with state, local governments on prioritization and delivery.” 
 

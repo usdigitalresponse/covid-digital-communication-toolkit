@@ -45,9 +45,3 @@ When reading, users with limited literacy skills focus on the **center of the sc
   * Make a decision depending on the general public flow
   * Talk to their employer
 
-### **Sources**
-
-Nguyen, S. \(2020, December 31\). 3-Day Research Sprint: How residents look for Covid-19 vaccine information \[Policy Memo\]. Los Angeles: US Digital Response. Retrieved February 14, 2021, from [https://bit.ly/3tYdmzT](https://bit.ly/3tYdmzT) 
-
-ODPHP. \(2016, June 8\). What We Know About Users with Limited Literacy Skills. Retrieved from [https://health.gov/healthliteracyonline/what-we-know/section-1-1/](https://health.gov/healthliteracyonline/what-we-know/section-1-1/) 
-
