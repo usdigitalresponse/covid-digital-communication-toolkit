@@ -123,3 +123,11 @@ SAGE Working Group. \(2014\). Report of the SAGE Working Group on Vaccine Hesita
 Piltch-Loeb, R., & DiClemente, R. \(2020\). The Vaccine Uptake Continuum: Applying Social Science Theory to Shift Vaccine Hesitancy. Vaccines, 8\(1\), 76. [https://doi.org/10.3390/vaccines8010076](https://doi.org/10.3390/vaccines8010076)   
 Thomson, A., Robinson, K., & Vallée-Tourangeaub, G. \(2016\). The 5As: A practical taxonomy for the determinants of vaccine uptake. Vaccine, 34\(8\), 1018–1024. https://doi.org/10.1016/j.vaccine.2015.11.065
 
+### Transcreation and Translation
+
+Centers for Disease Control and Prevention. \(2016\). Everyday Words for Public Health Communication. [https://www.cdc.gov/other/pdf/EverydayWordsForPublicHealthCommunication.pdf](https://www.cdc.gov/other/pdf/EverydayWordsForPublicHealthCommunication.pdf)
+
+Health Literacy Tool Shed. \(2021, February\). [https://healthliteracy.bu.edu/](https://healthliteracy.bu.edu/) 
+
+Agency for Healthcare Research and Quality. \(2019, November\). Short Assessment of Health Literacy–Spanish and English \(SAHL-S&E\). Health Literacy Measurement Tools \(Revised\). [https://www.ahrq.gov/health-literacy/research/tools/index.html\#short](https://www.ahrq.gov/health-literacy/research/tools/index.html#short)
+

@@ -40,11 +40,3 @@ We recommend the following Covid-19 resources for Spanish speakers.
 
 {% embed url="https://salud-america.org/juntos-podemos-detener-al-covid-19/" caption="Salud America! New Latino-focused bilingual campaign: Juntos, we can stop COVID-19!" %}
 
-### Sources
-
-Centers for Disease Control and Prevention. \(2016\). Everyday Words for Public Health Communication. [https://www.cdc.gov/other/pdf/EverydayWordsForPublicHealthCommunication.pdf](https://www.cdc.gov/other/pdf/EverydayWordsForPublicHealthCommunication.pdf)
-
-Health Literacy Tool Shed. \(2021, February\). [https://healthliteracy.bu.edu/](https://healthliteracy.bu.edu/) 
-
-Agency for Healthcare Research and Quality. \(2019, November\). Short Assessment of Health Literacy–Spanish and English \(SAHL-S&E\). Health Literacy Measurement Tools \(Revised\). [https://www.ahrq.gov/health-literacy/research/tools/index.html\#short](https://www.ahrq.gov/health-literacy/research/tools/index.html#short)
-
