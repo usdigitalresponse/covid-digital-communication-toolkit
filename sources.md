@@ -30,3 +30,19 @@ Nguyen, S. \(2020, December 31\). 3-Day Research Sprint: How residents look for 
 
 ODPHP. \(2016, June 8\). What We Know About Users with Limited Literacy Skills. Retrieved from [https://health.gov/healthliteracyonline/what-we-know/section-1-1/](https://health.gov/healthliteracyonline/what-we-know/section-1-1/)
 
+### Checklist
+
+Amee. \(2017, November 24\). What is the Fold? The Crazy Egg Glossary. Retrieved from [https://www.crazyegg.com/blog/glossary/what-is-the-fold/](https://www.crazyegg.com/blog/glossary/what-is-the-fold/)
+
+ETR. \(2020, August 19\). ETR's Health Equity Framework. Retrieved February 14, 2021, from [https://www.etr.org/about-us/health-equity-framework/](https://www.etr.org/about-us/health-equity-framework/) 
+
+Secretary, H. O., & Office of the Chief Information Officer \(OCIO\). \(2021, January 21\). Accessibility Compliance Checklists. Retrieved from [https://www.hhs.gov/web/section-508/accessibility-checklists/index.html](https://www.hhs.gov/web/section-508/accessibility-checklists/index.html)
+
+SF.gov. \(2021, January\). Get notified when it's your turn for the vaccine: San Francisco. Retrieved from [https://sf.gov/get-notified-when-its-your-turn-vaccine/form](https://sf.gov/get-notified-when-its-your-turn-vaccine/form)
+
+ODPHP. \(2016, June 8\). What We Know About Users with Limited Literacy Skills. Retrieved from [https://health.gov/healthliteracyonline/what-we-know/section-1-1/](https://health.gov/healthliteracyonline/what-we-know/section-1-1/) 
+
+Raskin, A., & Zahorian, I. \(2021, February 10\). When can I get vaccinated?: Resource Analysis \(February 2021\). Retrieved from [https://docs.google.com/presentation/d/1\_jAbQxtWglbvrxDWgvOapE\_2PtHenM-LjwhQQmjcfLQ/present\#slide=id.gbb0d6d51e7\_0\_174](https://docs.google.com/presentation/d/1_jAbQxtWglbvrxDWgvOapE_2PtHenM-LjwhQQmjcfLQ/present#slide=id.gbb0d6d51e7_0_174)
+
+Rosenwald, M. \(2020, December 26\). 'A needle makes my blood run cold': Will the phobic get the coronavirus vaccine? Retrieved from [https://www.washingtonpost.com/local/needles-fear-coronavirus-vaccine/2020/12/22/1c554500-408a-11eb-8db8-395dedaaa036\_story.html](https://www.washingtonpost.com/local/needles-fear-coronavirus-vaccine/2020/12/22/1c554500-408a-11eb-8db8-395dedaaa036_story.html)
+
