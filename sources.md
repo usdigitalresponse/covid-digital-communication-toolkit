@@ -46,3 +46,7 @@ Raskin, A., & Zahorian, I. \(2021, February 10\). When can I get vaccinated?: Re
 
 Rosenwald, M. \(2020, December 26\). 'A needle makes my blood run cold': Will the phobic get the coronavirus vaccine? Retrieved from [https://www.washingtonpost.com/local/needles-fear-coronavirus-vaccine/2020/12/22/1c554500-408a-11eb-8db8-395dedaaa036\_story.html](https://www.washingtonpost.com/local/needles-fear-coronavirus-vaccine/2020/12/22/1c554500-408a-11eb-8db8-395dedaaa036_story.html)
 
+### Messaging Examples
+
+ADC Council. \(2021, February\). Messaging that Resonates. Retrieved from [https://adcouncilvaccinetoolkit.org/messaging](https://adcouncilvaccinetoolkit.org/messaging)
+

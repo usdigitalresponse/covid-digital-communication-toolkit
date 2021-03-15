@@ -9,5 +9,3 @@ The following logic model is a high-level overview of the flow of materials and 
 
 ![Logic model with success metrics for a digital marketing campaign for COVID-19 vaccine distribution](../.gitbook/assets/vaccination-comms-logic-model%20%281%29.png)
 
-\*\*\*\*
-

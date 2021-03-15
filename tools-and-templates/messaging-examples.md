@@ -22,7 +22,3 @@ Below are examples and creative guidance to build confidence and trust with BIPO
 
 {% embed url="https://www.nlgja.org/stylebook/" %}
 
-### Source
-
-ADC Council. \(2021, February\). Messaging that Resonates. Retrieved from [https://adcouncilvaccinetoolkit.org/messaging](https://adcouncilvaccinetoolkit.org/messaging)
-
