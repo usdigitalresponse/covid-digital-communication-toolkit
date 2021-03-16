@@ -2,7 +2,7 @@
 description: Step-by-step health equity recommendations for COVID-19 communication
 ---
 
-# Covid-19 Digital Communication Toolkit: A Health Equity Lens
+# Covid-19 Communication Toolkit: A Health Equity Lens
 
 This toolkit offers detailed, step-by-step guidance to help health communicators, content developers, educators, and health promotion leaders put health equity recommendations into COVID-19 communication action. The toolkit is a collection of information we at U.S. Digital Response have learned and trends analyzed through evidence-based research such as:
 

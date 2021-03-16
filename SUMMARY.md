@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Covid-19 Digital Communication Toolkit: A Health Equity Lens](README.md)
+* [Covid-19 Communication Toolkit: A Health Equity Lens](README.md)
 
 ## Introduction
 
