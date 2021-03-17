@@ -6,9 +6,7 @@ Our focus with these case studies is on **convenience**: Is it easy to get the v
 
 Below are examples of before and after we have designed for government partners with best practices in three areas:
 
-1. Site navigation
-2. Visual design
-3. Content strategy
-
-
+1. [Site navigation](site-navigation.md)
+2. [Visual design](visual-design.md)
+3. [Content strategy](content-strategy.md)
 
