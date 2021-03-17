@@ -18,7 +18,10 @@
 * [Mental Model](what-we-know/mental-model.md)
 * [Search and Navigation](what-we-know/search-and-navigation.md)
 * [Reading and Cognitive Challenges](what-we-know/reading-and-cognitive-challenges.md)
-* [Case Studies](what-we-know/case-studies.md)
+* [Case Studies](what-we-know/case-studies/README.md)
+  * [Site Navigation](what-we-know/case-studies/site-navigation.md)
+  * [Visual Design](what-we-know/case-studies/visual-design.md)
+  * [Content Strategy](what-we-know/case-studies/content-strategy.md)
 
 ## Tools and Templates
 
