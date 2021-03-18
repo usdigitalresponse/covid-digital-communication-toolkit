@@ -1,6 +1,6 @@
 # Content Strategy
 
-To empathize with our government partner's residents, we applied [role modeling strategy](https://headheartbrain.com/brain-savvy-business/role-models-making-role-modelling-an-effective-leadership-development-strategy/#:~:text=see%20them%20through.-,Essentially%20what%20we%20are%20doing%20in%20using%20a%20role%20modelling,others%20to%20identify%20with%20them) such as:
+To organized content with information scent, we:
 
 * **Prioritized most important** information in top button such as Vaccine sign-up instead of Data Dashboard
 * **Provided secondary links** to important pages \(testing, reopening\)
