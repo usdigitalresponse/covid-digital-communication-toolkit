@@ -2,6 +2,12 @@
 
 Below are examples and creative guidance to build confidence and trust with BIPOC communities, based on extensive qualitative and quantitative research from the Ad Council, including cross-cultural focus groups, to uncover the most impactful messaging frameworks.
 
+Check out the microsite developed by Georgia Tech’s Center for Inclusive Design and Innovation with funding from CDC Foundation and technical assistance from CDC. It makes [**COVID-19 messaging available to people with disabilities**](http://apha.informz.net/z/cjUucD9taT0zMjU5MTU3JnA9MSZ1PTM4MzU1MzYzNCZsaT0yODU2NzMyNw/index.html).
+
+### COVID-19 Messaging for People with Disabilities
+
+{% embed url="https://cidi.gatech.edu/covid" %}
+
 ### Creative Brief for **Black** Audiences
 
 {% file src="../.gitbook/assets/creative-brief\_black-audience \(2\).pdf" caption="Messaging that resonates for Black audiences" %}
