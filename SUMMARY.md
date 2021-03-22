@@ -27,10 +27,9 @@
 
 * [Checklist](tools-and-templates/checklists.md)
 * [Success Metrics](tools-and-templates/success-metrics.md)
-* [Website Template](tools-and-templates/website-template.md)
-* [Mobile Template](tools-and-templates/mobile-template.md)
+* [Website and Mobile Template](tools-and-templates/website-and-mobile-template.md)
 * [Print and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
-* [Stock Photos](tools-and-templates/stock-photos.md)
+* [Stock Photos and Icons](tools-and-templates/stock-photos-and-icons.md)
 * [Messaging Examples](tools-and-templates/messaging-examples.md)
 
 ## Key Population Considerations

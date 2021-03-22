@@ -8,7 +8,7 @@ Answering the questions below will help you and your team understand how you can
 
 * [ ] **If yes,** do you have a health equity task force or Diversity, Equity, and Inclusion \(DEI\) committee to support you in developing equitable COVID-19 communication?
 
-  * [ ] **If yes**, start at [Checklists](../tools-and-templates/checklists.md) and [Website Template](../tools-and-templates/website-template.md)
+  * [ ] **If yes**, start at [Checklists](../tools-and-templates/checklists.md) and [Website Template](../tools-and-templates/website-and-mobile-template.md)
   * [ ] **If no**, start at [Resident Personas](../what-we-know/resident-personas.md)
 
 * [ ] **If you have not** made any decisions about health equity yet, start with [Health Equity Framework Overview](health-equity-framework-overview/).
