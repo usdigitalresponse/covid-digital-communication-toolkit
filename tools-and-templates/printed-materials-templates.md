@@ -4,6 +4,14 @@ Information surrounding COVID-19 changes and evolves constantly, which can be ov
 
 The following resources for print media, such as flyers and downloadable social media infodemics, are from **trusted organizations** to support your agency in public health digital outreach.
 
+### Equity Toolkits
+
+{% embed url="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/toolkits/community-organization.html" %}
+
+{% embed url="https://about.kaiserpermanente.org/community-health/news/vaccine-equity-toolkit-will-help-address-equitable-access" %}
+
+
+
 ### Health Literacy
 
 {% embed url="https://www.ama-assn.org/delivering-care/health-equity/health-literacy-resources-inequities-non-english-speakers" %}
@@ -11,6 +19,8 @@ The following resources for print media, such as flyers and downloadable social 
 {% embed url="https://health.gov/healthliteracyonline/" %}
 
 {% embed url="https://www.ahrq.gov/health-literacy/index.html" %}
+
+### 
 
 ### Health Communication
 
@@ -20,6 +30,8 @@ The following resources for print media, such as flyers and downloadable social 
 
 {% embed url="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/clear-communication" %}
 
+### 
+
 ### Health Equity Outreach
 
 {% embed url="https://medium.com/wehearthealthliteracy/aiming-for-equity-in-health-materials-4dac5342a0b8" %}
@@ -27,6 +39,8 @@ The following resources for print media, such as flyers and downloadable social 
 {% embed url="https://www.healthequityinitiative.org/toolkits.html" %}
 
 {% embed url="http://www.rootsofhealthinequity.org/" %}
+
+### 
 
 ### Infographics and Infodemics
 
@@ -36,13 +50,15 @@ The following resources for print media, such as flyers and downloadable social 
 
 {% embed url="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve" %}
 
+### 
+
 ### Social Media
 
 {% embed url="https://www.cdc.gov/socialmedia/tools/index.html" %}
 
+### 
+
 ### Flyers and Print Media
 
 {% embed url="https://www.nami.org/Support-Education/NAMI-HelpLine/COVID-19-Information-and-Resources" %}
-
-\*\*\*\*
 
