@@ -20,5 +20,19 @@ This is an analysis that synthesizes a survey of seven state governments’ soci
 
 ![](../../.gitbook/assets/screen-shot-2021-04-04-at-4.05.24-pm.png)
 
+**Some governments are validating that there are vaccine worries and then addressing them.** The voice is empathetic and reassuring about the feelings and decisions their residents need to make.
 
+![](../../.gitbook/assets/screen-shot-2021-04-04-at-4.10.21-pm.png)
+
+**Acknowledging the impact of the pandemic** on mental wellness is a common theme and content type and provided an option for support in social media posts.
+
+![](../../.gitbook/assets/ca-hope-line-mental-wellness.png)
+
+**Encouraging a staycation, a fun way to frame not traveling to support public health** is another example that shows care for residents.
+
+![](../../.gitbook/assets/ca-banner-take-over-wear-a-mask.png)
+
+**Messaging in physical contexts that some residents have fond memories** of is powerful and encourages them to look forward to going back to.
+
+![](../../.gitbook/assets/ma-gillett-stadium-and-dunkin.png)
 
