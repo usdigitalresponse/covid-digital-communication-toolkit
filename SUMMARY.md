@@ -18,6 +18,7 @@
 * [Mental Model](what-we-know/mental-model.md)
 * [Search and Navigation](what-we-know/search-and-navigation.md)
 * [Reading and Cognitive Challenges](what-we-know/reading-and-cognitive-challenges.md)
+* [Social Media Engagement](what-we-know/social-media-engagement.md)
 * [Case Studies](what-we-know/case-studies/README.md)
   * [Site Navigation](what-we-know/case-studies/site-navigation.md)
   * [Visual Design](what-we-know/case-studies/visual-design.md)
@@ -41,8 +42,8 @@
 
 ## Special Topics
 
-* [Crisis Communication](special-topics/crisis-communication.md)
 * [Vaccine Hesitancy](special-topics/vaccine-hesitancy.md)
+* [Crisis Communication](special-topics/crisis-communication.md)
 * [Transcreation and Translation](special-topics/transcreation-and-translation.md)
 * [Data Collection, Visualization, and Reporting](special-topics/data-collection-visualization-and-reporting.md)
 
