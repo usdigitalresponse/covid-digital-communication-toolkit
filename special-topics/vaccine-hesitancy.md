@@ -20,6 +20,8 @@ We recommend the following tactics to overcome vaccine hesitancy.
 
 ![Communication tactics to bolster vaccine confidence](../.gitbook/assets/screen-shot-2021-03-02-at-9.33.34-am%20%281%29.png)
 
+{% embed url="https://wecandothis.hhs.gov/" %}
+
 **1.Moderate your organization's social media** and marketing platforms by assigning a community manager to engage with residents apply the SWIFT Method to respond to vaccine misinformation:
 
 * **Stop** when you encounter potential misinformation. Even deciding not to share the content is a success metric.
