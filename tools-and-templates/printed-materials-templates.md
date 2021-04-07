@@ -6,6 +6,8 @@ The following resources for print media, such as flyers and downloadable social 
 
 ### Equity Toolkits
 
+{% embed url="https://wecandothis.hhs.gov/" %}
+
 {% embed url="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/toolkits/community-organization.html" %}
 
 {% embed url="https://about.kaiserpermanente.org/community-health/news/vaccine-equity-toolkit-will-help-address-equitable-access" %}
