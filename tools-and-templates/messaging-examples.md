@@ -16,6 +16,14 @@ Check out the microsite developed by Georgia Tech’s Center for Inclusive Desig
 
 ### Creative Brief for **Hispanic** Audiences
 
+{% embed url="https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/communication-toolkit.html" %}
+
+{% embed url="https://www.hopkinsmedicine.org/coronavirus/espanol/index.html" %}
+
+{% embed url="https://www.cdc.gov/coronavirus/2019-ncov/communication/print-resources.html?Sort=Date&Search=Spanish" %}
+
+{% embed url="https://www.fda.gov/about-fda/fda-en-espanol/enfermedad-del-coronavirus-covid-19" %}
+
 {% file src="../.gitbook/assets/creative-brief\_hispanic-audience.pdf" caption="Messaging that resonates for Hispanic audiences" %}
 
 ![Ad Council&apos;s creative design of It&apos;s Up to You \(De Ti Depende in Spanish\)](../.gitbook/assets/screen-shot-2021-02-25-at-2.39.40-pm.png)
