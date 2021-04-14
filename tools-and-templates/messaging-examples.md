@@ -24,6 +24,8 @@ Check out the microsite developed by Georgia Tech’s Center for Inclusive Desig
 
 {% embed url="https://www.fda.gov/about-fda/fda-en-espanol/enfermedad-del-coronavirus-covid-19" %}
 
+{% embed url="https://www.youtube.com/watch?v=2Yk74obIje0&feature=youtu.be&ab\_channel=U.S.FoodandDrugAdministration" %}
+
 {% file src="../.gitbook/assets/creative-brief\_hispanic-audience.pdf" caption="Messaging that resonates for Hispanic audiences" %}
 
 ![Ad Council&apos;s creative design of It&apos;s Up to You \(De Ti Depende in Spanish\)](../.gitbook/assets/screen-shot-2021-02-25-at-2.39.40-pm.png)
