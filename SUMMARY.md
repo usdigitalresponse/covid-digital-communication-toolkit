@@ -29,6 +29,7 @@
 ## Tools and Templates
 
 * [Checklist](tools-and-templates/checklists.md)
+* [Social Media Playbook](tools-and-templates/social-media-playbook.md)
 * [Success Metrics](tools-and-templates/success-metrics.md)
 * [Website and Mobile Template](tools-and-templates/website-and-mobile-template.md)
 * [Print and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
