@@ -1,10 +1,10 @@
 # Checklist
 
-We created the following audit checklist, which you can use to evaluate your digital tools, such as a website, mobile app, social media content, and digital print media. This checklist centralizes recommendations derived from [Health Literacy Online](https://health.gov/healthliteracyonline/), ETR's [Health Equity Framework](https://journals.sagepub.com/doi/full/10.1177/1524839920950730), and [design thinking](https://www.interaction-design.org/literature/topics/design-thinking). 
-
 Following the KISS rule \(Keep It Simple, Stupid\), linked below is a resource produced by [NYC Opportunity](https://www1.nyc.gov/site/opportunity/about/about-nyc-opportunity.page#:~:text=The%20Mayor's%20Office%20for%20Economic%20Opportunity%20%28NYC%20Opportunity%29%20uses%20evidence,service%20delivery%2C%20and%20budget%20decisions.) \(NYC Mayor’s Office for Economic Opportunity\) that includes tools and tactics for civic service design regarding COVID-19 public health efforts that can also be applied to the broader design realm. Use these tips to amp up concreteness to more effectively catch your target user’s attention and make them more likely to perform the key behavior.
 
 {% embed url="https://civicservicedesign.com/visual-design-for-covid-19-communications-2f73742d40ac" %}
+
+We created the following audit checklist, which you can use to evaluate your digital tools, such as a website, mobile app, social media content, and digital print media. This checklist centralizes recommendations derived from [Health Literacy Online](https://health.gov/healthliteracyonline/), ETR's [Health Equity Framework](https://journals.sagepub.com/doi/full/10.1177/1524839920950730), and [design thinking](https://www.interaction-design.org/literature/topics/design-thinking). 
 
 ### 1. Learn about your users and their goals
 
