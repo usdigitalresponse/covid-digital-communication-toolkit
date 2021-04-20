@@ -64,14 +64,6 @@ The following resources for print media, such as flyers and downloadable social 
 
 {% embed url="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve" %}
 
-### 
-
-### Social Media
-
-{% embed url="https://www.cdc.gov/socialmedia/tools/index.html" %}
-
-### 
-
 ### Flyers and Print Media
 
 {% embed url="https://www.nami.org/Support-Education/NAMI-HelpLine/COVID-19-Information-and-Resources" %}

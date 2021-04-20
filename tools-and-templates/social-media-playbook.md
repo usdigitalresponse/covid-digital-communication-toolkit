@@ -8,5 +8,7 @@ We understand there are limited resources and time, so this was created with tha
 
 {% embed url="https://usdr.gitbook.io/social-media-playbook/" %}
 
+{% embed url="https://wecandothis.hhs.gov/" %}
 
+{% embed url="https://www.cdc.gov/socialmedia/tools/index.html" %}
 
