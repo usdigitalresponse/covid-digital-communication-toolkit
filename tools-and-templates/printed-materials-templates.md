@@ -4,6 +4,18 @@ Information surrounding COVID-19 changes and evolves constantly, which can be ov
 
 The following resources for print media, such as flyers and downloadable social media infodemics, are from **trusted organizations** to support your agency in public health digital outreach.
 
+### Multilingual Flyers
+
+{% embed url="https://drive.google.com/drive/folders/1Io9lEcG3eQNqPPcPcdz0FsPRUOsoC3gb?usp=sharing" %}
+
+### Occupation/ Situation Letter Templates
+
+{% embed url="https://drive.google.com/drive/folders/1GQk4nI2E4VfoVE1-IIFFYrktcsgiaIl0?usp=sharing" %}
+
+### Undocumented Immigrant Letters/ Flyers
+
+{% embed url="https://drive.google.com/drive/folders/1aTuTA4MvLWABtDqFc2ksCyxSTifExaPl?usp=sharing" %}
+
 ### Equity Toolkits
 
 {% embed url="https://wecandothis.hhs.gov/" %}
