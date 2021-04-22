@@ -8,7 +8,7 @@ The list is based on literature and landscape review and ongoing discussions wit
 
 * **TV** ads. The Colorado Department of Health and Environment has released **commercials in English and Spanish** featuring Colorado health care workers who are people of color, promoting the message that vaccines are safe.
 * **Radio** ads to reach undocumented workers, the uninsured, farmers, and digital desserts
-* Ads on **Spotify** and Pandora
+* **Spotify** and Pandora Ads
 * **Social media** toolkits such as [HHS' We Can Do This Kit](https://wecandothis.hhs.gov/filter/format/Social%20Media)
 * **Reminder/recall approaches** \(postcard, letter, telephone, or combination\) 
 * **Sound trucks** to spread awareness of mobile COVID-19 vaccine clinics such as in [Quebec](https://www.theglobeandmail.com/canada/article-quebec-sets-single-day-record-for-covid-19-vaccinations/)
@@ -16,8 +16,7 @@ The list is based on literature and landscape review and ongoing discussions wit
 * **Reserved appointments** each week for high-risk neighborhoods where vaccinations have lagged, releasing them on a different day and only to residents of those areas
 * **Appointments allocated** for the weekend with access to transportation and other social services like food and tied to other benefits such as WIC and SNAP benefits
 * **Door-to-door knocks** with mobile device partnerships such as mPulse with leaders from the community. North Carolina has [partnered](https://www.wbtv.com/2021/01/24/mass-covid-vaccination-clinic-be-held-bank-america-stadium-jan-/) with faith leaders to ensure communities of color and underserved communities have access to vaccinations at the state’s mass vaccination clinics, including releasing appointments to [Black and Latinx church attendees](https://www.wsj.com/podcasts/the-journal/companies-try-to-speed-up-the-vaccine-rollout/0c90b3c0-dba7-4b03-bb50-d3d1a669d6b5) before opening up registration to the general public.
-* Areas with public transportation like Dollar Store
-* Work with a state that provides signing up a family member
+* **Family member and child** vaccine appointment scheduling with child immunization schedule cards in vaccine patient portals
 
 ### Analogue Channels
 
