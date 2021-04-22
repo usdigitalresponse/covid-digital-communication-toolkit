@@ -4,6 +4,8 @@ Following the KISS rule \(Keep It Simple, Stupid\), linked below is a resource p
 
 {% embed url="https://civicservicedesign.com/visual-design-for-covid-19-communications-2f73742d40ac" %}
 
+{% embed url="https://covid-websites.usdigitalresponse.org/" %}
+
 We created the following audit checklist, which you can use to evaluate your digital tools, such as a website, mobile app, social media content, and digital print media. This checklist centralizes recommendations derived from [Health Literacy Online](https://health.gov/healthliteracyonline/), ETR's [Health Equity Framework](https://journals.sagepub.com/doi/full/10.1177/1524839920950730), and [design thinking](https://www.interaction-design.org/literature/topics/design-thinking). 
 
 ### 1. Learn about your users and their goals
@@ -12,10 +14,10 @@ We created the following audit checklist, which you can use to evaluate your dig
 * [ ] What are your users' **challenges and fears** regarding COVID-19 and the vaccine?
 * [ ] What are their **motivations** on your website? Why are they here?
 * [ ] What are they trying to do on your digital tool? i.e. **goals and user's definition of success**.
-* [ ] What are the **individual** **factors** that impact your users' attitudes and behaviors towards searching. and accepting COVID-19 vaccine information? e.g. a built environment such as access to the internet, mobile phone, and a computer.
+* [ ] What are the **individual** **factors** that impact your users' attitudes and behaviors towards searching and accepting COVID-19 vaccine information? e.g. a built environment such as access to the internet, mobile phone, and a computer.
 * [ ] What are your users' **physiological pathways**? e.g. cognitive and comprehension disabilities and conditions such as Dementia, Alzheimers, and Parkinson's Disease.
 * [ ] What **networks and relationships** do they value the most to learn about COVID-19 information? e.g. a trust messenger/ [health translator](https://www.usdigitalresponse.org/39-voices-_-covid-sprint-_-full-deck/) from their communities, family, friends, schools, religious institutes \(church, temple, mosque\).
-* [ ] What are the **systems of power** that prevent or accelerate their access to accurate and transparent COVID-19 information? e.g. undocumented immigrant, lack of insurance, rural community access to healthcare.
+* [ ] What are the **systems of power** that prevent or accelerate their access to accurate and transparent COVID-19 information? e.g. undocumented immigrants, lack of insurance, rural community access to healthcare.
 * [ ] Did you use **bold colors** with contrast in alignment with [508 compliance](https://www.hhs.gov/web/section-508/accessibility-checklists/index.html)? e.g. avoid dark backgrounds.
 
 ### 2. Write actionable content
