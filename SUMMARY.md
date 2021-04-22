@@ -29,7 +29,7 @@
 ## Tools and Templates
 
 * [Checklist](tools-and-templates/checklists.md)
-* [Social Media Playbook](tools-and-templates/social-media-playbook.md)
+* [Social Media Playbook and Templates](tools-and-templates/social-media-playbook-and-templates.md)
 * [Website and Mobile Template](tools-and-templates/website-and-mobile-template.md)
 * [Print and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
 * [Stock Photos and Icons](tools-and-templates/stock-photos-and-icons.md)
