@@ -9,7 +9,7 @@ The list is based on literature and landscape review and ongoing discussions wit
 * **TV** ads. The Colorado Department of Health and Environment has released **commercials in English and Spanish** featuring Colorado health care workers who are people of color, promoting the message that vaccines are safe.
 * **Radio** ads to reach undocumented workers, the uninsured, farmers, and digital desserts
 * Ads on **Spotify** and Pandora
-* **Social media** toolkits such as 
+* **Social media** toolkits such as [HHS' We Can Do This Kit](https://wecandothis.hhs.gov/filter/format/Social%20Media)
 * **Reminder/recall approaches** \(postcard, letter, telephone, or combination\) 
 * **Sound trucks** to spread awareness of mobile COVID-19 vaccine clinics such as in [Quebec](https://www.theglobeandmail.com/canada/article-quebec-sets-single-day-record-for-covid-19-vaccinations/)
 * SMS and phone banking such as [VaxDirect](https://vaxdirect.org/)
