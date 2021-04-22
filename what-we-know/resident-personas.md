@@ -1,10 +1,8 @@
 # Resident Personas
 
-For any target audience, effective message development should align with the **community’s values and preferences** and come from trusted sources. Because COVID-19 communication needs change over time, vaccination communication strategies must also adapt to the changing needs of residents, and evolving vaccine information, and guard against information fatigue. 
+For any target audience, effective message development should align with the **community’s values and preferences** and come from trusted sources. Because COVID-19 communication needs to change over time, vaccination communication strategies must also adapt to the changing needs of residents, and evolving vaccine information, and guard against information fatigue. 
 
-Therefore, we created two personas in **Phase 1 \(a, b, c\)** based on current and past projects with our government partners that reflect the principles in the Health Equity Framework with strategic messaging.
-
-### Phase 1
+Therefore, we created two personas based on current and past projects with our government partners that reflect the principles in the Health Equity Framework with strategic messaging.
 
 **Meet Mark,** an elderly citizen who is retired and a caregiver to his wife. His main frustration is the cognitive overload of vaccine information, which he reads online and sees on the news. The best messaging outreach for Mark is to position getting the COVID-19 vaccine as part of his own personal leadership role as a **protector of the community.** 
 

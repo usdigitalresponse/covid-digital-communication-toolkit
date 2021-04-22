@@ -29,6 +29,7 @@
 ## Tools and Templates
 
 * [Checklist](tools-and-templates/checklists.md)
+* [Vaccine Outreach Channels](tools-and-templates/vaccine-outreach-channels.md)
 * [Social Media Playbook and Templates](tools-and-templates/social-media-playbook-and-templates.md)
 * [Website and Mobile Template](tools-and-templates/website-and-mobile-template.md)
 * [Print and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
