@@ -30,11 +30,11 @@
 
 * [Checklist](tools-and-templates/checklists.md)
 * [Vaccine Outreach Channels](tools-and-templates/vaccine-outreach-channels.md)
+* [Messaging Examples](tools-and-templates/messaging-examples.md)
 * [Social Media Playbook and Templates](tools-and-templates/social-media-playbook-and-templates.md)
 * [Website and Mobile Template](tools-and-templates/website-and-mobile-template.md)
 * [Print and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
 * [Stock Photos and Icons](tools-and-templates/stock-photos-and-icons.md)
-* [Messaging Examples](tools-and-templates/messaging-examples.md)
 * [Success Metrics](tools-and-templates/success-metrics.md)
 
 ## Key Population Considerations

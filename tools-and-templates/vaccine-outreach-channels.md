@@ -22,12 +22,13 @@ The list is based on literature and landscape review and ongoing discussions wit
 ### Analogue Channels
 
 * **Community-based partnerships** like fraternities and sororities, HBCUs, and public libraries. [Tennessee](https://www.wate.com/news/local-news/faith-leaders-to-address-covid-19-vaccine-distribution-among-african-american-community/) has an African American Health Care Clinician Workgroup, with working members from the NAACP, the Black Nursing Society, and other Black organizations, who are disseminating messaging on the importance of vaccinations and will ultimately help vaccinate **Black communities.** West Virginia is funding **faith-based community** members and people of color to administer COVID-19 vaccines directly to communities of color, ascribing to the principle that having trusted, local figures helping with distribution will improve those communities’ confidence in the vaccine
+* Vaccinations offered at **major social and sporting events** such as the [Milwaukee Bucks](https://www.forbes.com/sites/tommybeer/2021/04/27/milwaukee-bucks-to-offer-covid-19-vaccinations-to-fans-attending-sundays-game/) offering Pfizer COVID-19 vaccines to eligible fans 16+ who are attending the game against the Nets on Sunday \(on ABC\) at Fiserv Forum
 * **Virtual town halls** to dispel COVID-19 vaccine myths and resources
-* Training Trusted messengers, [promotoras](https://en.wikipedia.org/wiki/Promotora), and community health workers with process improvements to their workflows
+* Training **Trusted messengers,** [promotoras](https://en.wikipedia.org/wiki/Promotora), and community health workers with process improvements to their workflows
 * **Local business partnerships** like Krispy Creme in drive-thrus
 * **Airport** for testing and vaccination spots to reach tourists and travelers
 * \*\*\*\*[**Dollar tree**](https://www.marketwatch.com/story/how-dollar-stores-could-provide-a-shot-in-the-arm-for-the-u-s-s-covid-vaccination-drive-11617993753) as located clinics to reach low-income households within dollar store distances
-* **Vaccine equity clinics** and mobile vaccination vans to reach 
+* **Vaccine equity clinics** and mobile vaccination vans to reach rural, farmers, and hard-to-reach communities
 
 ### Equitable Vaccine Outreach Methods by States
 
