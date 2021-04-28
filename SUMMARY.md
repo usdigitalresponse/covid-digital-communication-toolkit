@@ -21,17 +21,17 @@
 * [Social Media Engagement](what-we-know/social-media-engagement/README.md)
   * [Government Social Media Landscape](what-we-know/social-media-engagement/government-social-media-landscape.md)
   * [Marginalized Communities’ Relationships with Social Media](what-we-know/social-media-engagement/marginalized-communities-relationships-with-social-media.md)
-* [Case Studies](what-we-know/case-studies/README.md)
-  * [Site Navigation](what-we-know/case-studies/site-navigation.md)
-  * [Visual Design](what-we-know/case-studies/visual-design.md)
-  * [Content Strategy](what-we-know/case-studies/content-strategy.md)
 
 ## Tools and Templates
 
 * [Checklist](tools-and-templates/checklists.md)
-* [Vaccine Outreach Channels](tools-and-templates/vaccine-outreach-channels.md)
+* [Case Studies](tools-and-templates/case-studies/README.md)
+  * [Site Navigation](tools-and-templates/case-studies/site-navigation.md)
+  * [Visual Design](tools-and-templates/case-studies/visual-design.md)
+  * [Content Strategy](tools-and-templates/case-studies/content-strategy.md)
 * [Messaging Examples](tools-and-templates/messaging-examples.md)
 * [Social Media Playbook and Templates](tools-and-templates/social-media-playbook-and-templates.md)
+* [Vaccine Outreach Channels](tools-and-templates/vaccine-outreach-channels.md)
 * [Website and Mobile Template](tools-and-templates/website-and-mobile-template.md)
 * [Print and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
 * [Stock Photos and Icons](tools-and-templates/stock-photos-and-icons.md)

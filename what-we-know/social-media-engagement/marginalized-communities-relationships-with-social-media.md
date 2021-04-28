@@ -4,7 +4,7 @@
 **Social media** are powerful platforms that create echo chambers, especially for vaccine discourse. Each platform has its own strength and weakness but ultimately are meant to connect people and information.
 {% endhint %}
 
-Below is an analysis of the relationships black, indigenous, and people of color communities \(BIPOC\) have with social media, specially in terms of health information-seeking behavior.
+Below is an analysis of the relationships black, indigenous, and people of color communities \(BIPOC\) have with social media, especially in terms of health information-seeking behavior.
 
 ![Compared with half of White users, approximately 7:10 Black, Hispanic and Asian users view social media as somewhat effective in changing people&#x2019;s minds about political or social issues.](https://lh6.googleusercontent.com/JguCRWZrVwV23xwMU-74nAkh_NxTwrJkvwqLhL_OOOzPdd4TqcoHtgxMsIVL_o0iwWVyd0N5wH8OHsBiAivRGr4xiqE9yD_-zyUMeSQm6spDscWUIPEmTrg_qaEwcEx4NR2z2UFS)
 
