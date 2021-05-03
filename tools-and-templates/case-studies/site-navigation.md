@@ -8,3 +8,5 @@ To reduce friction on homepages or any pages [above the fold](https://en.wikiped
 
 ![County Homepage](../../.gitbook/assets/screen-shot-2021-03-17-at-3.56.33-pm.png)
 
+![](../../.gitbook/assets/site-pueblo.png)
+
