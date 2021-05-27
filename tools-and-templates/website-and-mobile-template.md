@@ -18,11 +18,15 @@ A step-by-step guide to launch the template on WordPress within days.
 
 {% embed url="https://usdr.gitbook.io/vaccine-website-template-implementation-guide/" caption="" %}
 
-### Desktop Template
+### Desktop Template \(English\)
 
 {% embed url="https://www.figma.com/proto/dyiSesOAZM9NIDqogoqbdr/USDR-Vaccine-Website-Template?node-id=737%3A0&scaling=min-zoom" caption="" %}
 
-### Mobile Template
+### Desktop Template \(Spanish\)
+
+{% embed url="https://www.figma.com/file/dyiSesOAZM9NIDqogoqbdr/USDR-Vaccine-Website-Template?node-id=1978%3A5131" %}
+
+### Mobile Template \(English\)
 
 Below is a **mobile-view design template** with applied health literacy and design thinking best practices that your organization can use.
 
