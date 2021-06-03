@@ -243,6 +243,8 @@ Other ](https://lh6.googleusercontent.com/2Yype6szlZRGAf0G8s-b0IyhjdjviVrIZBgVbS
 
 Our **playbook** will help you audit, strategize, and distribute trusted COVID-19 content across social media channels.
 
+{% embed url="https://docs.google.com/presentation/d/13dhNwHGOgHC4lp4kWEEMi46zmkXR39kfPGGCrEW0GPI/edit\#slide=id.gccc3781d23\_0\_8" %}
+
 {% embed url="https://usdr.gitbook.io/social-media-playbook/" %}
 
 {% embed url="https://wecandothis.hhs.gov/" %}

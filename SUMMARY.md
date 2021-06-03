@@ -1,6 +1,7 @@
 # Table of contents
 
 * [COVID-19 Communication Toolkit: A Health Equity Lens](README.md)
+* [What's new?](whats-new.md)
 
 ## Introduction
 
@@ -30,13 +31,13 @@
   * [Visual Design](tools-and-templates/case-studies/visual-design.md)
   * [Content Strategy](tools-and-templates/case-studies/content-strategy.md)
   * [Equity Indices](tools-and-templates/case-studies/equity-indices.md)
-* [Vaccine Outreach Channels](tools-and-templates/vaccine-outreach-channels.md)
-* [Messaging Examples](tools-and-templates/messaging-examples.md)
+* [Messaging Examples and Templates](tools-and-templates/messaging-examples-templates.md)
 * [Social Media Playbook and Templates](tools-and-templates/social-media-playbook-and-templates.md)
+* [Print and Web Materials Templates and Toolkits](tools-and-templates/printed-materials-templates.md)
 * [Website and Mobile Template](tools-and-templates/website-and-mobile-template.md)
-* [Print and Web Materials Templates](tools-and-templates/printed-materials-templates.md)
 * [Stock Photos and Icons](tools-and-templates/stock-photos-and-icons.md)
 * [Success Metrics](tools-and-templates/success-metrics.md)
+* [Vaccine Outreach Channels](tools-and-templates/vaccine-outreach-channels.md)
 
 ## Key Population Considerations
 

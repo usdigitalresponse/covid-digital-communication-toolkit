@@ -1,4 +1,4 @@
-# Print and Web Materials Templates
+# Print and Web Materials Templates and Toolkits
 
 Information surrounding COVID-19 changes and evolves constantly, which can be overwhelming to the lay public. This picture is further complicated by the **widespread misinformation** and disinformation about the virus, especially on social media. 
 
