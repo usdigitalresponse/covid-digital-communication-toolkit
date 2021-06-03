@@ -13,3 +13,5 @@ There is no one easy communication solution, but we have centralized some new re
 
 {% embed url="https://www.cdc.gov/socialmedia/tools/index.html" %}
 
+{% embed url="https://www.facebook.com/groups/vfvcommunitychampions" %}
+
