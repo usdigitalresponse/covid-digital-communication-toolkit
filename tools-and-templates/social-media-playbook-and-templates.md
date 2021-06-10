@@ -247,6 +247,14 @@ Our **playbook** will help you audit, strategize, and distribute trusted COVID-1
 
 {% embed url="https://usdr.gitbook.io/social-media-playbook/" %}
 
+{% embed url="https://nrcrim.org/vaccines/get-vaccinated-campaign" %}
+
+{% embed url="https://nrcrim.org/vaccines/get-facts-campaign" %}
+
+{% embed url="https://nrcrim.org/vaccines/vaccination-campaign" %}
+
+{% embed url="https://nrcrim.org/vaccines/vaccine-central" %}
+
 {% embed url="https://wecandothis.hhs.gov/" %}
 
 {% embed url="https://www.cdc.gov/socialmedia/tools/index.html" %}
