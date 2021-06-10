@@ -4,9 +4,13 @@ Below are examples and creative guidance to build confidence and trust with BIPO
 
 Check out the microsite developed by Georgia Tech’s Center for Inclusive Design and Innovation with funding from CDC Foundation and technical assistance from CDC. It makes [**COVID-19 messaging available to people with disabilities**](http://apha.informz.net/z/cjUucD9taT0zMjU5MTU3JnA9MSZ1PTM4MzU1MzYzNCZsaT0yODU2NzMyNw/index.html).
 
-### MakeSpace: Make your Own Campaign
+### MakeSpace: Make your Own Campaign and Resident Persona
 
 {% embed url="https://sites.google.com/ideo.org/makespace/start-here" %}
+
+### University of Minnesota Vaccine Central: Faith-based Organizations, Mobile Vans, Equity Pop-up Clinics, and Trusted Messengers
+
+{% embed url="https://nrcrim.org/vaccines/vaccine-central" %}
 
 ### COVID-19 Public Education Campaign
 
@@ -19,6 +23,10 @@ Check out the microsite developed by Georgia Tech’s Center for Inclusive Desig
 ### Messaging for Refugees, Immigrants, and Migrants
 
 {% embed url="https://nrcrim.org/vaccines/vaccine-central" %}
+
+### Minnesota Be a Vaccine Advocate: COVID-19 Vaccine Toolkit for Individuals and Organizations
+
+{% embed url="https://www.health.state.mn.us/diseases/coronavirus/vaccine/communitytk.html\#fs" %}
 
 ### COVID-19 Messaging for People with Disabilities
 
