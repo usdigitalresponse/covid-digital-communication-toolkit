@@ -1,6 +1,6 @@
 # Checklist
 
-Following the KISS rule \(Keep It Simple, Stupid\), linked below is a resource produced by [NYC Opportunity](https://www1.nyc.gov/site/opportunity/about/about-nyc-opportunity.page#:~:text=The%20Mayor's%20Office%20for%20Economic%20Opportunity%20%28NYC%20Opportunity%29%20uses%20evidence,service%20delivery%2C%20and%20budget%20decisions.) \(NYC Mayor’s Office for Economic Opportunity\) that includes tools and tactics for civic service design regarding COVID-19 public health efforts that can also be applied to the broader design realm. Use these tips to amp up concreteness to more effectively catch your target user’s attention and make them more likely to perform the key behavior.
+Linked below is a resource produced by [NYC Opportunity](https://www1.nyc.gov/site/opportunity/about/about-nyc-opportunity.page#:~:text=The%20Mayor's%20Office%20for%20Economic%20Opportunity%20%28NYC%20Opportunity%29%20uses%20evidence,service%20delivery%2C%20and%20budget%20decisions.) \(NYC Mayor’s Office for Economic Opportunity\) that includes tools and tactics for civic service design regarding COVID-19 public health efforts that can also be applied to the broader design realm. Use these tips to amp up concreteness to more effectively catch your target user’s attention and make them more likely to perform the key behavior.
 
 {% embed url="https://civicservicedesign.com/visual-design-for-covid-19-communications-2f73742d40ac" %}
 
@@ -14,11 +14,21 @@ We created the following audit checklist, which you can use to evaluate your dig
 * [ ] What are your users' **challenges and fears** regarding COVID-19 and the vaccine?
 * [ ] What are their **motivations** on your website? Why are they here?
 * [ ] What are they trying to do on your digital tool? i.e. **goals and user's definition of success**.
-* [ ] What are the **individual** **factors** that impact your users' attitudes and behaviors towards searching and accepting COVID-19 vaccine information? e.g. a built environment such as access to the internet, mobile phone, and a computer.
-* [ ] What are your users' **physiological pathways**? e.g. cognitive and comprehension disabilities and conditions such as Dementia, Alzheimers, and Parkinson's Disease.
-* [ ] What **networks and relationships** do they value the most to learn about COVID-19 information? e.g. a trust messenger/ [health translator](https://www.usdigitalresponse.org/39-voices-_-covid-sprint-_-full-deck/) from their communities, family, friends, schools, religious institutes \(church, temple, mosque\).
+* [ ] What are the **individual** **factors** that impact your users' attitudes and behaviors towards searching and accepting COVID-19 vaccine information? How do continually learn from our constituents and establish them as the experts? e.g. a built environment such as access to the internet, mobile phone, and a computer.
+  * [ ] How might we lead with transparency in our work?
+  * [ ] How might we share research insights and data transparently?
+  * [ ] How might we intentionally recruit diverse teams?
+* [ ] What are your users' **physiological pathways**? How can we accommodate or challenge structures that exclude individuals from participating in public spaces? e.g. cognitive and comprehension disabilities and conditions such as Dementia, Alzheimers, and Parkinson's Disease.
+  * [ ] How might we design for a commitment to recovery?
+  * [ ] How might we address imbalanced power dynamics?
+  * [ ] How might we support a person’s sense of physical and psychological safety?
+* [ ] What **networks and relationships** do people value the most to feel safe, protected, and empowered to take action on healthy behaviors? e.g. a trust messenger/ [health translator](https://www.usdigitalresponse.org/39-voices-_-covid-sprint-_-full-deck/) from their communities, family, friends, schools, religious institutes \(church, temple, mosque\).
+  * [ ] **How might we amplify the voices of hyperlocal communities?**
+  * [ ] **H**ow might we design processes to empower people and foster a sense of agency in people?
 * [ ] What are the **systems of power** that prevent or accelerate their access to accurate and transparent COVID-19 information? e.g. undocumented immigrants, lack of insurance, rural community access to healthcare.
-* [ ] Did you use **bold colors** with contrast in alignment with [508 compliance](https://www.hhs.gov/web/section-508/accessibility-checklists/index.html)? e.g. avoid dark backgrounds.
+  * [ ] How might we shift the balance of power?
+  * [ ] How might we ensure that we center our collaborators over our funders?
+  * [ ] How might we ethically involve people in the co-design and research process?
 
 ### 2. Write actionable content
 
@@ -40,7 +50,7 @@ We created the following audit checklist, which you can use to evaluate your dig
 * [ ] Did you keep content? In the **center of the screen** and above the fold?
 * [ ] Did you label **links** clearly?
 * [ ] Did you use **images** that facilitate learning and reduce negative emotions? e.g. avoid vaccine imagery that [could deter people with needle phobias](https://www.washingtonpost.com/local/needles-fear-coronavirus-vaccine/2020/12/22/1c554500-408a-11eb-8db8-395dedaaa036_story.html).
-* [ ] Did you use **bold colors** with contrast? Avoid dark backgrounds.
+* [ ] Did you use **bold colors** with contrast? e.g. avoid dark backgrounds.
 * [ ] Did you make your site and documents **accessible** to [people with disabilities](../key-population-considerations/people-with-disabilities.md)? Learn more about [508 compliance](https://www.hhs.gov/web/section-508/accessibility-checklists/index.html).
 
 ### 4. Organize content and simplify navigation
