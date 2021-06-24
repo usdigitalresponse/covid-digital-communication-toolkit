@@ -6,7 +6,7 @@ Linked below is a resource produced by [NYC Opportunity](https://www1.nyc.gov/si
 
 {% embed url="https://covid-websites.usdigitalresponse.org/" %}
 
-We created the following audit checklist, which you can use to evaluate your digital tools, such as a website, mobile app, social media content, and digital print media. This checklist centralizes recommendations derived from [Health Literacy Online](https://health.gov/healthliteracyonline/), ETR's [Health Equity Framework](https://journals.sagepub.com/doi/full/10.1177/1524839920950730), and [design thinking](https://www.interaction-design.org/literature/topics/design-thinking). 
+You can use the following audit checklist to evaluate your digital tools, such as a website, mobile app, social media content, and digital print media. This checklist centralizes recommendations derived from [Health Literacy Online](https://health.gov/healthliteracyonline/), ETR's [Health Equity Framework](https://journals.sagepub.com/doi/full/10.1177/1524839920950730), and [design thinking](https://www.interaction-design.org/literature/topics/design-thinking). 
 
 ### 1. Learn about your users and their goals
 
