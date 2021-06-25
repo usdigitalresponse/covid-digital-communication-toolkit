@@ -16,7 +16,7 @@ This is an analysis that synthesizes a survey of seven state governments’ soci
 
 ![](../../.gitbook/assets/screen-shot-2021-04-04-at-4.02.22-pm.png)
 
-**Governments are elevating BICOP medical professionals to share their personal and professional voices.** Amid disparities, Black doctors are [using TikTok and Instagram](https://www.latimes.com/california/story/2021-03-04/how-black-doctors-use-tiktok-to-instill-faith-in-the-vaccine) to foster restorative justice and encourage healthy behaviors such as getting the COVID-19 vaccine.
+**Governments are elevating BIPOC medical professionals to share their personal and professional voices.** Amid disparities, Black doctors are [using TikTok and Instagram](https://www.latimes.com/california/story/2021-03-04/how-black-doctors-use-tiktok-to-instill-faith-in-the-vaccine) to foster restorative justice and encourage healthy behaviors such as getting the COVID-19 vaccine.
 
 ![](../../.gitbook/assets/screen-shot-2021-04-04-at-4.05.24-pm.png)
 
